@@ -9,47 +9,39 @@ type: page
 * content
 {:toc}
 
-## 关于我
+## 介绍
 
-<iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+这里本该是主题作者的个人介绍，但我也慢慢开始摸索这玩意了，所以先把这里改了吧～
+高三废物，基本都是无所事事的状态。搞博客完全是兴趣使然，虽然支出的确可能有超预期…
+但是开心就好～难道不是吗？
 
-就职于阿里巴巴集团天猫事业部，前端开发工程师，花名川轼。
+## 兴趣
 
-主要兴趣集中在前端开发，大前端的概念深入我心。将更多的业务逻辑放在前端中，这很有趣。同时，将自己构想的内容实现出来，这种感觉很愉快。
-
-热爱美好的事物，热爱摇滚乐，组过乐队，卖过唱。
-
-很喜欢崔健的歌词：现实像块石头，精神像个蛋，石头虽然坚硬，可蛋里才是生命。
-
-还有，学习是一个非常愉快的过程。共同加油！
-
-* 2016.6.30 入职阿里巴巴天猫事业部
-* 2016.6 毕业于西安交通大学 软件工程硕士
-* 2015.12 获得2014-2015学年二等奖学金
-* 2015.7-2015.8 联想服务，前端开发工程师（实习生）
-* 2013.6 毕业于西安交通大学 理学院
-* 2001 获得西航四校总成绩年级排名第八名
+玩游戏吧？当然最好是有人一起的那种…平时R6、FF14什么的都有在玩。
+偶尔看看日轻、漫画、番剧什么的…总而言之就是一个肥宅啦～手办什么的入了潜坑
+不过立马就跳了（不能温水煮青蛙了）其实要说的话摄影也有点兴趣…不过穷是原罪…
+不说了，感觉什么有趣的都能吸引我的兴趣，不过要我深入了解熟悉一件事可是蛮困难的
+（毕竟我是懒狗嘛）
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/Gaohaoyang)
-* email：gaohaoyang126@126.com
-* [Weibo](http://weibo.com/3115521wh)
-* [知乎](https://www.zhihu.com/people/gaohaoyang)
-* [Facebook](https://www.facebook.com/gaohaoyang.water)
+* GitHub：[Small-tailqwq](https://github.com/Small-tailqwq)
+* email：Small_tailqwq@qq.com
+* [Weibo](http://weibo.com/u/5610377163)
 * [Twitter](https://twitter.com/gaohaoyang126)
-* [豆瓣](https://www.douban.com/people/42525035/)
-* [豆瓣音乐人-浩阳的小站](https://site.douban.com/haoyangaiyinyue/)
+* [Steam](http://weibo.com/u/5610377163)
 
 ## 关于本站
 
-**若您想使用这个 jekyll 博客主题，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+直接fork的徐代龙大佬的源码（本人意愿）
+基于GitHub Pages
+未来会慢慢改进
+原本的一些博文可能会删除，取而代之会将徐佬的博客加入显而易见的地方以便观摩
+收藏夹不打算删除。保留一些干货，另外会加上我自己收集的一些网站。
+衷心感谢徐代龙大佬的教程与源码，另外赞美一下github这美妙的速度
+（比WP的托管不知道高到哪里去了
 
-~欢迎使用~
-
-欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues)。
-
-### Update Log
+### Update Log（保留）
 
 *2017.2.28*
 
