@@ -7,9 +7,9 @@
 
 # Site settings
 title: 瞬息
-brief-intro: 电光火石、转瞬即逝
+brief-intro: 电光石火、转瞬即逝
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://643435675.github.io" # the base hostname & protocol for your site
+url: "https://small-tailqwq.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -23,7 +23,7 @@ zhihu_username: hll643435675
 linkedIn_username: gaohaoyang
 dribbble_username:
 
-description_footer: 来自瞬息！转瞬即逝
+description_footer: 瞬息 转瞬即逝
 
 # comments
 # two ways to comment, only choose one, and use your own short name
