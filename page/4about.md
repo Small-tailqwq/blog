@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 icon: heart
 type: page
@@ -28,12 +28,12 @@ type: page
 * GitHub：[Small-tailqwq](https://github.com/Small-tailqwq)
 * email：Small_tailqwq@qq.com
 * [Weibo](http://weibo.com/u/5610377163)
-* [Twitter](https://twitter.com/gaohaoyang126)
+* [Twitter](https://twitter.com/123_Smalltail)
 * [Steam](http://weibo.com/u/5610377163)
 
 ## 关于本站
 
-直接fork的徐代龙大佬的源码（本人意愿）
+直接fork的徐代龙大佬的源码
 基于GitHub Pages
 未来会慢慢改进
 原本的一些博文可能会删除，取而代之会将徐佬的博客加入显而易见的地方以便观摩
