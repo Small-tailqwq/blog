@@ -6,42 +6,49 @@ icon: heart
 type: page
 ---
 
-* content
-{:toc}
+
 
 ## 介绍
 
-这里本该是主题作者的个人介绍，但我也慢慢开始摸索这玩意了，所以先把这里改了吧～
-高三废物，基本都是无所事事的状态。搞博客完全是兴趣使然，虽然支出的确可能有超预期…
-但是开心就好～难道不是吗？
+这里本该是主题作者的个人介绍，但慢慢开始摸索这玩意了，所以先把这里改了吧～（毕竟最简单  
+高三废物，基本都是无所事事的状态。搞博客完全是兴趣使然，虽然支出的确可能有超预期…  
+**但是开心就好～难道不是吗？**
 
 ## 兴趣
 
-玩游戏吧？当然最好是有人一起的那种…平时R6、FF14什么的都有在玩。
-偶尔看看日轻、漫画、番剧什么的…总而言之就是一个肥宅啦～手办什么的入了潜坑
-不过立马就跳了（不能温水煮青蛙了）其实要说的话摄影也有点兴趣…不过穷是原罪…
+玩游戏吧？当然最好是有人一起的那种…  
+平时R6、FF14什么的都有在玩。
+偶尔看看日轻、漫画、番剧什么的…总而言之就是一个肥宅啦～手办什么的入了潜坑  
+不过立马就跳了（不能温水煮青蛙了）其实要说的话摄影也有点兴趣…不过穷是原罪…  
 不说了，感觉什么有趣的都能吸引我的兴趣，不过要我深入了解熟悉一件事可是蛮困难的
 （毕竟我是懒狗嘛）
 
-## 联系我
+## 你可以……
 
-* GitHub：[Small-tailqwq](https://github.com/Small-tailqwq)
-* email：Small_tailqwq@qq.com
-* [Weibo](http://weibo.com/u/5610377163)
-* [Twitter](https://twitter.com/123_Smalltail)
-* [Steam](http://weibo.com/u/5610377163)
+[康康我的GitHub](https://github.com/Small-tailqwq)|[发邮件骚扰](Small_tailqwq@qq.com)  
+[关注我的微勃](http://weibo.com/u/5610377163)|[订阅我的推忑](https://twitter.com/123_Smalltail)  
+[Steam好友喜加一（假的](http://weibo.com/u/5610377163)
 
 ## 关于本站
 
-直接fork的徐代龙大佬的源码
-基于GitHub Pages
+直接fork的徐代龙大佬的源码  
+基于GitHub Pages  
 未来会慢慢改进
-原本的一些博文可能会删除，取而代之会将徐佬的博客加入显而易见的地方以便观摩
-收藏夹不打算删除。保留一些干货，另外会加上我自己收集的一些网站。
-衷心感谢徐代龙大佬的教程与源码，另外赞美一下github这美妙的速度
-（比WP的托管不知道高到哪里去了
+原本的一些博文可能会删除，取而代之会将徐佬的博客加入显而易见的地方以便观摩（坑  
+收藏夹不打算删除。保留一些干货，另外会加上我自己收集的一些网站。  
+衷心感谢徐代龙大佬的教程与源码，另外赞美一下github这美妙的速度（比WP的托管不知道高到哪里去了
+
+## 留言
+* content
+{:toc}
+
 
 ### 更新日志（保留）
+*2019.10.28*
+* `[^]`添加来必力评论系统：本来是disqus体验不错的，可惜被墙）
+* `[^]`绑定百度统计：谷歌的之前也绑了…虽然都没什么用…底栏与文章👀图标浏览量预计下次修复
+* `[^]`虽然不知道这是什么格式，但是照着些就完事了！ （关于节目添加留言）（其实就是评论）
+
 
 *2017.2.28*
 
@@ -84,9 +91,10 @@ type: page
 * 2016.3-2016.4 进行了一次大的改版和重构，详见 [README](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/README.md) 和博文 [对这个 jekyll 博客主题的改版和重构](http://gaohaoyang.github.io/2016/03/12/jekyll-theme-version-2.0/)
 * 2015.3-2015.4 完成了这个博客主题的第一版。
 
-## 友情链接
+## 友情链接（建设中…优先级别低）
+[DreamMaker](https://fordes123.github.io/friends/)
 
-[羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/)
+
 
 ## Comments
 
