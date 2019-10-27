@@ -16,13 +16,15 @@
 
 {% if site.baidu_tongji_id %}
     <script>
-    // 百度统计代码
-    var hm = document.createElement("script");
+// 百度统计代码
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
   hm.src = "https://hm.baidu.com/hm.js?{{site.baidu_tongji_id}}";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
-    </script>
+</script>
 {% endif %}
 {% if site.google_analytics_id %}
     <script>
@@ -51,6 +53,7 @@
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 {% endif %}
+
 <!-- 来必力City版安装代码 -->
 <div id="lv-container" data-id="city" data-uid="MTAyMC80NzI2My8yMzc2Mw==">
 	<script type="text/javascript">
