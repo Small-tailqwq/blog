@@ -24,7 +24,7 @@ type: page
 
 ## 你可以……
 
-[康康我的GitHub](https://github.com/Small-tailqwq)|[发邮件骚扰](toemail:Small_tailqwq@qq.com)  
+[康康我的GitHub](https://github.com/Small-tailqwq)|[发邮件骚扰](mailto:Small_tailqwq@qq.com)  
 [关注我的微勃](http://weibo.com/u/5610377163)|[订阅我的推忑](https://twitter.com/123_Smalltail)  
 [Steam好友喜加一（假的](http://weibo.com/u/5610377163)
 
