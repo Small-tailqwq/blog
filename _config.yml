@@ -31,8 +31,9 @@ description_footer: 瞬息 转瞬即逝
 duoshuo_shortname: #hygblog
 disqus_shortname: #bemiku.disqus.com/count.js
 # Livere评论系统
-                     Livere:
-                     livere_uid: MTAyMC80NzI2My8yMzc2Mw==
+Livere: true
+on: true 
+livere_uid: MTAyMC80NzI2My8yMzc2Mw==
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
