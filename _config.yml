@@ -27,10 +27,9 @@ description_footer: 我爱你…爱得深沉…
 
 # comments
 # two ways to comment, only choose one, and use your own short name
-# 两种评论插件，选一个就好了，使用自己的 short_name
+# 三种评论插件，选一个就好了，使用自己的 short_name
 duoshuo_shortname: #hygblog
 disqus_shortname: #bemiku.disqus.com/count.js
-# Livere评论系统
 Livere: true
 on: true 
 livere_uid: MTAyMC80NzI2My8yMzc2Mw==
