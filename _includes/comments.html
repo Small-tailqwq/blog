@@ -42,6 +42,7 @@ s.setAttribute('data-timestamp', +new Date());
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% endif %}
 
+    <% } else if (theme.livere.on) { %>
 <section class="livere" id="comments">
     <!-- 来必力City版安装代码 -->
     <div id="lv-container" data-id="city" data-uid="Your uid">
@@ -63,3 +64,5 @@ s.setAttribute('data-timestamp', +new Date());
     <!-- City版安装代码已完成 -->
 </section>
 
+
+        <%- partial('comments/livere') %>
