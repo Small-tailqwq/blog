@@ -20,11 +20,11 @@ author: SnakeSon
 
 1 右键点击左下角微软按钮，找到“运行”   也可用键盘的win+R     
 
-![图片.png](http://upload-images.jianshu.io/upload_images/2577413-07f3d54cc3ce1538.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![图片.png](https://upload-images.jianshu.io/upload_images/2577413-07f3d54cc3ce1538.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 2 在运行处输入 “services.msc”   点击确定。
 
-![图片.png](http://upload-images.jianshu.io/upload_images/2577413-2df616c88439415a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![图片.png](https://upload-images.jianshu.io/upload_images/2577413-2df616c88439415a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
