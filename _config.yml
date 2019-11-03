@@ -32,14 +32,14 @@ duoshuo_shortname: #hygblog
 disqus_shortname: #bemiku.disqus.com/count.js
 Livere: true
 on: true 
-livere_uid: MTAyMC80NzI2My8yMzc2Mw==
+livere_uid: MTAyMC80NzI2My8yMzc2Mw== #来必力的uid
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
-# xxxxx字符串
+# 只取xxxxx字符串
 baidu_tongji_id: 084e68676f7b0e5522ee147b0650e144
-google_analytics_id: UA-150927766-1 # google 分析追踪id
+google_analytics_id: UA-150927766-1 # google 分析追踪id（UA开头
 
 # Build settings
 markdown: kramdown
@@ -56,7 +56,7 @@ category_dir: category/
 tag_dir: tag/
 
 # excerpt
-excerpt_separator: \n\n\n
+excerpt_separator: "\n\n\n"
 
 # paginate
 plugins: [jekyll-paginate]
