@@ -13,17 +13,17 @@ url: "https://small-tailqwq.github.io" # the base hostname & protocol for your s
 
 permalink: /:year/:month/:day/:title/
 
-# other links
-twitter_username: 123_Smalltail
+# other links 一些联系方式
+twitter_username: 123_Smalltail #直接用户id
 facebook_username: #gaohaoyang.water
-github_username:  small-tailqwq
+github_username:  small-tailqwq #也是直接用户id
 email: Small_tailqwq@qq.com
-weibo_username: 5610377163
+weibo_username: 5610377163 #微博的数字id
 zhihu_username: 
 linkedIn_username: 
 dribbble_username: 
 
-description_footer: 我爱你…爱得深沉…
+description_footer: 我爱你…爱得深沉… #低栏自定义hape句子
 
 # comments
 # two ways to comment, only choose one, and use your own short name
@@ -55,8 +55,8 @@ kramdown:
 category_dir: category/
 tag_dir: tag/
 
-# excerpt
-excerpt_separator: "\n\n\n"
+# excerpt 摘要分割
+excerpt_separator: "\n\n\n\n"
 
 # paginate
 plugins: [jekyll-paginate]
