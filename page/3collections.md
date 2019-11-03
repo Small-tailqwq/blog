@@ -27,6 +27,7 @@ type: page
 
     CSS3 生成器
 
+### 建站工具  
 - [tiny png](https://tinypng.com/)
 
     用于压缩 png 或 jpg 的在线工具
@@ -43,7 +44,10 @@ type: page
     - 这个功能更强大一点，能清楚的区分出贪婪和懒惰正则。
 - [http://regexr.com/](http://regexr.com/)
 - [google fonts](https://fonts.google.com/)
-  - [Google Fonts 加速代理](https://fengmk2.com/blog/2016/google-fonts-mirror)
+  - [Google Fonts 加速代理](https://fengmk2.com/blog/2016/google-fonts-mirror)  
+- [https不安全内容检测](https://www.chinassl.net/ssltools/ssl-lock-checker.html)
+  - 明明是https，但是小锁不绿？那可以用这玩意。/虽然可以直接F12，但是这个网站可以方便不少懒狗（比如我） 
+
 
 ## 编程语言
 
