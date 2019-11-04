@@ -40,7 +40,7 @@ type: page
 
 ## 友情链接
 # （建设中…优先级别低）
-# [DreamMaker](https://fordes123.github.io/friends/)  
+# [DreamMaker](https://fordes.top/)  
 老哥对不起，下次我整个有牌面的给你QAQ
 
 ## 留言
