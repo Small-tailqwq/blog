@@ -17,8 +17,8 @@ type: page
 还有这里本该是主题作者的个人介绍，但慢慢开始摸索这玩意了，所以先把这里改了吧～（毕竟最简单  
 
 ## 关于我  
-<img src="https://raw.githubusercontent.com/Small-tailqwq/img/master/blog/MOSHED-2019-9-15-10-6-40.jpg" width="50%">
-高三废物，平时基本都是无所事事的状态。游戏除节假日外没机会玩的…等以后再说吧  
+<img src="https://raw.githubusercontent.com/Small-tailqwq/img/master/blog/MOSHED-2019-9-15-10-6-40.jpg" width="50%">  
+    高三废物，平时基本都是无所事事的状态。游戏除节假日外没机会玩的…等以后再说吧  
 搞博客完全是兴趣使然，虽然支出的确可能有超预期…  
 **但是开心就好～**难道不是吗？
 
