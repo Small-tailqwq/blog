@@ -9,9 +9,8 @@ type: page
 * 传送门
 {:toc}
 
-直接fork的徐代龙大佬的源码  
+直接fork的[徐代龙大佬的源码](https://github.com/xudailong/xudailong.github.io)  
 基于GitHub Pages  
-未来会慢慢改进，原本的一些博文可能会删除，取而代之会将徐佬的博客加入显而易见的地方以便观摩（坑  
 收藏夹不打算删除。保留一些干货，另外会加上我自己收集的一些网站。  
 衷心感谢徐代龙大佬的教程与源码，另外赞美一下github这美妙的速度（比WP的托管不知道高到哪里去了  
 还有这里本该是主题作者的个人介绍，但慢慢开始摸索这玩意了，所以先把这里改了吧～（毕竟最简单  
@@ -33,11 +32,11 @@ type: page
 ### 你可以……
 [康康我的GitHub](https://github.com/Small-tailqwq)■■[发邮件骚扰](mailto:Small_tailqwq@qq.com)  
 [关注我的微勃](http://weibo.com/u/5610377163)■■[订阅我的推忑](https://twitter.com/123_Smalltail)  
-[Steam好友喜加一✕暂时还不行(´Д⊂ヽ](http://weibo.com/u/5610377163)
+[Steam好友喜加一](https://steamcommunity.com/id/404smalltail/)
 
 
 ## 友情链接
-# （建设中…优先级别低）
+# （建设中…没有思路）
 # [DreamMaker](https://fordes.top/)  
 老哥对不起，下次我整个有牌面的给你QAQ
 
