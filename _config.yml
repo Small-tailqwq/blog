@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username: 
 dribbble_username: 
 
-description_footer: <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script> #底栏自定义hape句子
+description_footer: <script src="https://v1.hitokoto.cn/?c=f&encode=text" defer></script> #底栏自定义hape句子
 
 # comments
 # two ways to comment, only choose one, and use your own short name
