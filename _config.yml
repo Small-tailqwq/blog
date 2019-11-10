@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username: 
 dribbble_username: 
 
-description_footer:<script type="text/javascript" src="https://api.lwl12.com/hitokoto/main/get?encode=js&charset=utf-8"></script><div id="lwlhitokoto"><script>lwlhitokoto()</script></div>
+description_footer: 一时的猛士？亦或长久的懦夫
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 三种评论插件，选一个就好了，使用自己的 short_name
