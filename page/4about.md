@@ -33,9 +33,10 @@ type: page
 [关注我的微勃](http://weibo.com/u/5610377163)■■[订阅我的推忑](https://twitter.com/123_Smalltail)  
 [Steam好友喜加一](https://steamcommunity.com/id/404smalltail/)
 ## 友情链接  
-- （建设中…没有思路
-- ### [DreamMaker](https://fordes.top/)  
-    - 老哥对不起，下次我整个有牌面的给你Qaq  
+~~目前还没有思路~~  
+- ### [DreamMaker](https://fordes.top/)
+    - 老哥对不住了，下次整个有牌面的给你  
+
 ## 留言  
 &ensp;可在此添加友链（要求不多，博客名字和链接就行，可以的话加个图标也不是不可以（应该能实现的吧…））~~好像有点麻烦…~~  
 {% include comments.html %}
