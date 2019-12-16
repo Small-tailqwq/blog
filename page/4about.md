@@ -17,7 +17,7 @@ type: page
 收藏夹不打算删除。保留一些干货，另外会加上我自己收集的一些网站。  
 衷心感谢徐代龙大佬的教程与源码，另外赞美一下github这美妙的速度（比WP的托管不知道高到哪里去了  
 ## 关于我  
-<img src="https://raw.githubusercontent.com/Small-tailqwq/img/master/blog/MOSHED-2019-9-15-10-6-40.jpg" width="50%">  
+[<img src="https://raw.githubusercontent.com/Small-tailqwq/img/master/blog/MOSHED-2019-9-15-10-6-40.jpg" width="50%">](https://space.bilibili.com/21514592)   
 &emsp;&emsp;高三废物，平时基本都是无所事事的状态…游戏除节假日外没机会玩的…等以后再说吧orz搞博客完全是兴趣使然，虽然支出的确可能有超预期，**但是开心就好～**难道不是吗？
 ### 我的兴趣  
 玩游戏吧？**当然最好是有人一起的那种…**当孤儿是最你妈烦的，玩不起别来  
