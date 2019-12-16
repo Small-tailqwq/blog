@@ -9,15 +9,17 @@ type: page
 * 传送门
 {:toc}
 
-> 欢迎来到我的个人博客~
+
+> ## 欢迎来到我的个人博客~
 
 ## 关于本博客  
 
 由于技术有限~~懒~~，所以是直接fork的[徐代龙大佬的源码](https://github.com/xudailong/xudailong.github.io)的。当然也是基于`GitHub Pages`搭建的，绑上自己的域名，dns供应商那边解析一下就行了。  
 收藏夹不打算删除。保留一些干货，另外会加上我自己收集的一些网站。  
-衷心感谢徐代龙大佬的教程与源码，另外赞美一下github这美妙的速度~~比WP的托管不知道高到哪里去了~~   
+衷心感谢徐代龙大佬的教程与源码，另外赞美一下github这美妙的速度~~比WP的托管不知道高到哪里去了~~  
+---  
 
-## 关于我 
+## 关于我  
  
 <img src="https://raw.githubusercontent.com/Small-tailqwq/img/master/blog/MOSHED-2019-9-15-10-6-40.jpg" width="50%">  
 &emsp;&emsp;高三废物，平时基本都是无所事事的状态…游戏除节假日外没机会玩的…等以后再说吧orz搞博客完全是兴趣使然，虽然支出的确可能有超预期，**但是开心就好～**难道不是吗？
@@ -33,7 +35,7 @@ type: page
 不说了，感觉什么有趣的都能吸引我的兴趣，不过要我深入了解熟悉一件事可是蛮困难的（毕竟我是懒狗嘛）  
 （耳烧、刷机、DIY…什么的都有涉猎，但都是新人。IT…方面也一样）
 
-### 你可以……
+## 你可以……
 [康康我的GitHub](https://github.com/Small-tailqwq)■■[发邮件骚扰](mailto:Small_tailqwq@qq.com)  
 [关注我的微勃](http://weibo.com/u/5610377163)■■[订阅我的推忑](https://twitter.com/123_Smalltail)  
 [Steam好友喜加一](https://steamcommunity.com/id/404smalltail/)
@@ -41,10 +43,10 @@ type: page
 
 ## 友情链接
 - （建设中…没有思路）
-- # [DreamMaker](https://fordes.top/)  
+- ### [DreamMaker](https://fordes.top/)  
     - 老哥对不起，下次我整个有牌面的给你QAQ
 
-## 留言
+## 留言  
 &ensp;可在此添加友链（要求不多，博客名字和链接就行，可以的话加个图标也不是不可以（应该能实现的吧…））~~好像有点麻烦…~~  
 {% include comments.html %}
 
