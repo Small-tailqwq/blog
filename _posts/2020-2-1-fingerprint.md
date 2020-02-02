@@ -2,7 +2,7 @@
 layout: post
 title:  自制指纹贴
 categories: 
-tags: 教材
+tags: 教程
 author: Small_tail
 ---
 * content
