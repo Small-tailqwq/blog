@@ -19,7 +19,7 @@ type: page
 
 ## 关于我  
 
-<img src="https://raw.githubusercontent.com/Small-tailqwq/img/master/blog/MOSHED-2019-9-15-10-6-40.jpg" width="50%">  
+<img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img@1.0/-5fd18e4a83732f53.gif" width="50%">  
 
 &emsp;&emsp;高三废物，平时基本都是无所事事的状态…游戏除节假日外没机会玩的…等以后再说吧orz搞博客完全是兴趣使然，虽然支出的确可能有超预期…  **但是开心就好～**难道不是吗？
 
