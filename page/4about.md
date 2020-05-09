@@ -13,9 +13,9 @@ type: page
 
 ## 关于本博客
 
-由于技术有限~~懒~~，所以是直接fork的[徐代龙大佬的源码](https://github.com/xudailong/xudailong.github.io)的。当然也是基于`GitHub Pages`搭建的，绑上自己的域名，dns供应商那边解析一下就行了。  
+由于技术有限+懒，所以是直接fork的[徐代龙大佬的源码](https://github.com/xudailong/xudailong.github.io)的。当然也是基于`GitHub Pages`搭建的，绑上自己的域名，dns供应商那边解析一下就行了。  
 收藏夹不打算删除。保留一些干货，另外会加上我自己收集的一些网站。  
-衷心感谢徐代龙大佬的教程与源码，另外赞美一下github这美妙的速度~~（比WP的托管不知道高到哪里去了~~  
+衷心感谢徐代龙大佬的教程与源码，另外赞美一下github这美妙的速度~~比WP的托管不知道高到哪里去了~~  
 
 ## 关于我  
 
