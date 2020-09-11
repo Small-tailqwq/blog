@@ -18,10 +18,10 @@ type: page
 收藏夹不打算删除。保留一些干货，另外会加上我自己收集的一些网站。  
 衷心感谢徐代龙大佬的教程与源码，另外赞美一下github这美妙的速度~~比WP的托管不知道高到哪里去了~~  
 
-## 关于我  
+## 关于我   
 
-<img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/20200911211608.jpg" width=20%/>
-
+<img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/20200911211608.jpg" width=20%>
+   
 &emsp;&emsp;[带专废物]("人下人")，平时基本都是无所事事的状态…游戏看情况而定吧…搞博客完全是兴趣使然，虽然支出的确可能有超预期…  **但是开心就好～**难道不是吗？  
 目前还行，域名由于比较低级一年只要60多，dns解析用的cf的，免费。然后GitHubpages也是直接用，免费。
 
@@ -38,9 +38,10 @@ type: page
 
 
 ## 友情链接
-- # ***[DreamMaker](https://fordes.top/)***  <img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width=10%/>
-
+- # ***[DreamMaker](https://fordes.top/)***  <img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width=10%>
 > *黄花仍在，朱颜未衰，正好忘怀*      
+
+
 ## 留言
 &ensp;可在此添加友链（要求不多，博客名字和链接就行，可以的话加个图标也不是不可以
 
