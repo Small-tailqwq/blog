@@ -13,47 +13,80 @@ type: page
 
 ## 关于本博客
 
-由于技术有限+懒，所以是直接fork的[徐代龙大佬的源码](https://github.com/xudailong/xudailong.github.io)的。当然也是基于`GitHub Pages`搭建的，绑上自己的域名，dns供应商那边解析一下就行了。  
+由于[技术有限](啥也不懂)+懒，所以是直接fork的[徐代龙大佬的源码](https://github.com/xudailong/xudailong.github.io)。当然也是基于`GitHub Pages`搭建的，绑上自己的域名，dns供应商那边解析一下就完事了。   
+开始逐渐研究并且加以修改了，不过因为自己傻逼进度很慢而且经常出低级错误，只能说一边学一边搞吧。  
 收藏夹不打算删除。保留一些干货，另外会加上我自己收集的一些网站。  
 衷心感谢徐代龙大佬的教程与源码，另外赞美一下github这美妙的速度~~比WP的托管不知道高到哪里去了~~  
 
 ## 关于我  
 
-<img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img@1.0/-5fd18e4a83732f53.gif" width="50%">  
+<img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/QQ图片20200911211608.jpg" width="50%">  
 
-&emsp;&emsp;准带专废物，平时基本都是无所事事的状态…游戏除节假日外没机会玩的…等以后再说吧orz搞博客完全是兴趣使然，虽然支出的确可能有超预期…  **但是开心就好～**难道不是吗？
+&emsp;&emsp;[带专废物](人下人)，平时基本都是无所事事的状态…游戏看情况而定吧…搞博客完全是兴趣使然，虽然支出的确可能有超预期…  **但是开心就好～**难道不是吗？  
+目前还行，域名由于比较低级一年只要60多，dns解析用的cf的，免费。然后GitHubpages也是直接用，免费。
 
 ### 我的兴趣
-玩游戏吧？**当然最好是有人一起的那种**…  
-本来是说不想当孤儿的，但发现我现在好像开始有点不合群了…回想以前，当孤儿也没什么大不了的嘛，这不都过来了吗。  
-玩的游戏类型多种多样，只要电脑能带得动，基本都没问题～  
-当然FPS跟GALGAME才是真爱啦～  
-最近在玩命运2，目前光等900出头，大概玩法已经掌握了。高难本还是得慢慢教学，平时刷刷任务打打铁还是可以一起的。  
-偶尔还会看看日轻、漫画、番剧什么的…总而言之算是一个肥宅啦～手办什么的入了浅坑…不过立马就跳了（不能温水煮青蛙了  
-其实要说的话摄影也有点兴趣…不过穷是原罪…  
-不说了，感觉什么有趣的都能吸引我的兴趣，不过要我深入了解熟悉一件事可是蛮困难的（毕竟我是懒狗嘛）  
-（耳烧、刷机、DIY…什么的都有涉猎，但都是新人。IT…方面也一样）
+兴趣这东西真不好说，玩玩游戏，听听歌，看看漫画啥的...基本能想到的都有做过，不过现在越来越懒了，在家基本一天就呆在房间里，有人玩游戏就一起玩，不然就是看看做菜视频啊，交通事故Viedo啥的啊，反正没干啥正事就对了。  
+目前学科报的是大数据，学啥呢？我也不知道，反正未来就是很迷茫就对了。就业啥的以前看觉得很遥远，现在倒是担心起来了以后能不能找到工作养活自己啥的。不过到了学校估计又会开始混吧...
 
 ### 你可以……
-[康康我的GitHub](https://github.com/Small-tailqwq) === [发邮件骚扰](mailto:Small_tailqwq@qq.com)  
-[关注我的微勃](http://weibo.com/u/5610377163) === [订阅我的推忑](https://twitter.com/123_Smalltail)  
-[Steam好友喜加一](https://steamcommunity.com/id/404smalltail/)  
-（记得公开李的资料，不然我分不清机器人）
+[康康我的GitHub](https://github.com/Small-tailqwq)——虽然啥也没有，日常就给这个库小改小改  
+[发邮件骚扰](mailto:Small_tailqwq@qq.com) ——这个是QQ邮箱，倒是偶尔会瞧瞧，不过还是建议用[Gmail](mailto:smalltailqwq@gmail.com)
+[关注我的微勃](http://weibo.com/u/5610377163)——我就是纯爱战士！牛头人退散！
+[订阅我的推忑](https://twitter.com/123_Smalltail)——推特用来看看二次元，不怼港毒啥的了，气死人了
+[Steam好友喜加一](https://steamcommunity.com/id/404smalltail/)——如果你喜欢玩Galgame，我们就是好兄弟！（希望公开资料，steam机器人还挺多的  
 
 
 ## 友情链接
 - （建设中…没有思路）
-- # [DreamMaker](https://fordes.top/)  
-    - 老哥对不起，下次我整个有牌面的给你QAQ
+- # [DreamMaker<img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width=30%>](https://fordes.top/)   
+  - 黄花仍在，朱颜未衰，正好忘怀
 
 ## 留言
-&ensp;可在此添加友链（要求不多，博客名字和链接就行，可以的话加个图标也不是不可以（应该能实现的吧…））~~好像有点麻烦…~~
-{% include comments.html %}
+&ensp;可在此添加友链（要求不多，博客名字和链接就行，可以的话加个图标也不是不可以
 
+<div id="vcomments"></div>
+<script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'sCggwue6b5mOVluYAtA51HxG-MdYXbMMI',
+            appKey: '5MwP7fgcnDYwJ8WyNGmyEkuv',
+            placeholder: '说话大声点，听不见！',
+            emojiCDN: '//i0.hdslb.com/bfs/emote/',
+            emojiMaps: {
+        "tv_doge": "6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png",
+        "tv_亲亲": "a8111ad55953ef5e3be3327ef94eb4a39d535d06.png",
+        "tv_偷笑": "bb690d4107620f1c15cff29509db529a73aee261.png",
+        "tv_再见": "180129b8ea851044ce71caf55cc8ce44bd4a4fc8.png",
+        "tv_冷漠": "b9cbc755c2b3ee43be07ca13de84e5b699a3f101.png",
+        "tv_发怒": "34ba3cd204d5b05fec70ce08fa9fa0dd612409ff.png",
+        "tv_发财": "34db290afd2963723c6eb3c4560667db7253a21a.png",
+        "tv_可爱": "9e55fd9b500ac4b96613539f1ce2f9499e314ed9.png",
+        "tv_吐血": "09dd16a7aa59b77baa1155d47484409624470c77.png",
+        "tv_呆": "fe1179ebaa191569b0d31cecafe7a2cd1c951c9d.png",
+        "tv_呕吐": "9f996894a39e282ccf5e66856af49483f81870f3.png",
+        "tv_困": "241ee304e44c0af029adceb294399391e4737ef2.png",
+        "tv_坏笑": "1f0b87f731a671079842116e0991c91c2c88645a.png",
+        "tv_大佬": "093c1e2c490161aca397afc45573c877cdead616.png",
+        "tv_大哭": "23269aeb35f99daee28dda129676f6e9ea87934f.png",
+        "tv_委屈": "d04dba7b5465779e9755d2ab6f0a897b9b33bb77.png",
+        "tv_害羞": "a37683fb5642fa3ddfc7f4e5525fd13e42a2bdb1.png",
+        "tv_尴尬": "7cfa62dafc59798a3d3fb262d421eeeff166cfa4.png",
+        "tv_微笑": "70dc5c7b56f93eb61bddba11e28fb1d18fddcd4c.png",
+        "tv_思考": "90cf159733e558137ed20aa04d09964436f618a1.png",
+        "tv_惊吓": "0d15c7e2ee58e935adc6a7193ee042388adc22af.png",
+        },
+                   
+                   enableQQ: true
+        })
+    </script>
 
 ## 更新日志（保留）
+*2020.9.11*
+* `[]`修复来必力评论加载出错的BUG（直接换掉）
+* 更换评论插件时顺带把之前没找到的评论词条改了，现在基本能看见的地方基本都是中文了（毕竟我是文盲
 *2020.1.30*
-* `[^]`解决部分机型上看不到超链接的问题。（其实是加载不出emoji，而我正好把超链接文本填成了emoji）
+* `[]`解决部分机型上看不到超链接的问题。（其实是加载不出emoji，而我正好把超链接文本填成了emoji）
 * 对部分博文进行排版更改，尽量发挥markdown的功效。
 
 *2020.1.29*  
