@@ -20,8 +20,8 @@ type: page
 
 ## 关于我   
 
-<img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/20200911211608.jpg" width=20%>
-   <img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/20200911211608.jpg" />
+<img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/20200911211608.jpg" width=20% height=20%/>
+  
 &emsp;&emsp;[带专废物]("人下人")，平时基本都是无所事事的状态…游戏看情况而定吧…搞博客完全是兴趣使然，虽然支出的确可能有超预期…  **但是开心就好～**难道不是吗？  
 目前还行，域名由于比较低级一年只要60多，dns解析用的cf的，免费。然后GitHubpages也是直接用，免费。
 
@@ -33,12 +33,11 @@ type: page
 - [康康我的GitHub](https://github.com/Small-tailqwq)——虽然啥也没有，日常就给这个库小改小改  
 - [发邮件骚扰](mailto:Small_tailqwq@qq.com) ——这个是QQ邮箱，倒是偶尔会瞧瞧，不过还是建议用[Gmail](mailto:smalltailqwq@gmail.com)  
 - [关注我的微勃](http://weibo.com/u/5610377163)——我就是纯爱战士！牛头人退散！  
-- [订阅我的推忑](https://twitter.com/123_Smalltail)——推特用来看看二次元或者是手办新闻啥的  
 - [Steam好友喜加一](https://steamcommunity.com/id/404smalltail/)——如果你喜欢玩Galgame，我们就是好兄弟！（希望公开资料，steam机器人还挺多的  
 
 
 ## 友情链接
-- # ***[DreamMaker](https://fordes.top/)***  <img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width=10%>
+- # ***[DreamMaker](https://fordes.top/)***  <img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width=10% heigut=10%>
 > *黄花仍在，朱颜未衰，正好忘怀*      
 
 
