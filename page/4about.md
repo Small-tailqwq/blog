@@ -20,7 +20,7 @@ type: page
 
 ## 关于我   
 
-<img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/20200911211608.jpg" width=20% height=20%/>
+<img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/20200911211608.jpg" width="20%" height="20%"/>
   
 &emsp;&emsp;[带专废物]("人下人")，平时基本都是无所事事的状态…游戏看情况而定吧…搞博客完全是兴趣使然，虽然支出的确可能有超预期…  **但是开心就好～**难道不是吗？  
 目前还行，域名由于比较低级一年只要60多，dns解析用的cf的，免费。然后GitHubpages也是直接用，免费。
