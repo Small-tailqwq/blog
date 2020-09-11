@@ -21,13 +21,21 @@
       });
     </script>
     <!-- <script src="{{ " /js/scroll.min.js " | prepend: site.baseurl }}" charset="utf-8"></script> -->
-    <div id="vcomments"></div>
+        <!--载入js，在</body>之前插入即可-->
+    <!--Leancloud 操作库:-->
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <!--Valine 的核心代码库-->
+    <script src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/js/Valine.min.js"></script>
     <script>
         new Valine({
-            el: '#vcomments',
-            appId: 'sCggwue6b5mOVluYAtA51HxG-MdYXbMMI',
-            appKey: '5MwP7fgcnDYwJ8WyNGmyEkuv'
-        })
+          av: AV, 
+            el: '.comment',
+            emoticon_url: 'https://cloud.panjunwen.com/alu',
+      emoticon_list: ["狂汗.png","不说话.png","汗.png","坐等.png","献花.png","不高兴.png","中刀.png","害羞.png","皱眉.png","小眼睛.png","暗地观察.png"],
+      app_id: 'sCggwue6b5mOVluYAtA51HxG-MdYXbMMI',
+      app_key: '5MwP7fgcnDYwJ8WyNGmyEkuv',
+      placeholder: 'Write a Comment'
+        });
     </script>
   </body>
 
