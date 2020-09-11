@@ -11,7 +11,7 @@ type: page
 
 > 欢迎来到我的个人博客~
 
-## 关于本博客
+# 关于本博客
 
 由于[技术有限](!啥也不懂!)+懒，所以是直接fork的[徐代龙大佬的源码](https://github.com/xudailong/xudailong.github.io)。当然也是基于`GitHub Pages`搭建的，绑上自己的域名，dns供应商那边解析一下就完事了。   
 开始逐渐研究并且加以修改了，不过因为自己傻逼进度很慢而且经常出低级错误，只能说一边学一边搞吧。  
@@ -37,9 +37,9 @@ type: page
 
 
 ## 友情链接
-- # ***[DreamMaker](https://fordes.top/)***  
+## ***[DreamMaker](https://fordes.top/)***   <img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width="10%" heigut="10%">
 > *黄花仍在，朱颜未衰，正好忘怀*      
-<img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width="10%" heigut="10%">
+
 
 ## 留言
 &ensp;可在此添加友链（要求不多，博客名字和链接就行，可以的话加个图标也不是不可以
