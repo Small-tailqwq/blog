@@ -39,7 +39,7 @@ type: page
 ## 友情链接
 - # ***[DreamMaker](https://fordes.top/)***  
 > *黄花仍在，朱颜未衰，正好忘怀*      
-<img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width=10% heigut=10%>
+<img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width="10%" heigut="10%">
 
 ## 留言
 &ensp;可在此添加友链（要求不多，博客名字和链接就行，可以的话加个图标也不是不可以
