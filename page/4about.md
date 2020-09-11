@@ -13,7 +13,7 @@ type: page
 
 ## 关于本博客
 
-由于[技术有限](啥也不懂)+懒，所以是直接fork的[徐代龙大佬的源码](https://github.com/xudailong/xudailong.github.io)。当然也是基于`GitHub Pages`搭建的，绑上自己的域名，dns供应商那边解析一下就完事了。   
+由于[技术有限]("啥也不懂")+懒，所以是直接fork的[徐代龙大佬的源码](https://github.com/xudailong/xudailong.github.io)。当然也是基于`GitHub Pages`搭建的，绑上自己的域名，dns供应商那边解析一下就完事了。   
 开始逐渐研究并且加以修改了，不过因为自己傻逼进度很慢而且经常出低级错误，只能说一边学一边搞吧。  
 收藏夹不打算删除。保留一些干货，另外会加上我自己收集的一些网站。  
 衷心感谢徐代龙大佬的教程与源码，另外赞美一下github这美妙的速度~~比WP的托管不知道高到哪里去了~~  
@@ -22,7 +22,7 @@ type: page
 
 <img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/QQ图片20200911211608.jpg" width=20%">  
 
-&emsp;&emsp;[带专废物](人下人)，平时基本都是无所事事的状态…游戏看情况而定吧…搞博客完全是兴趣使然，虽然支出的确可能有超预期…  **但是开心就好～**难道不是吗？  
+&emsp;&emsp;[带专废物]("人下人")，平时基本都是无所事事的状态…游戏看情况而定吧…搞博客完全是兴趣使然，虽然支出的确可能有超预期…  **但是开心就好～**难道不是吗？  
 目前还行，域名由于比较低级一年只要60多，dns解析用的cf的，免费。然后GitHubpages也是直接用，免费。
 
 ### 我的兴趣
@@ -30,11 +30,11 @@ type: page
 目前学科报的是大数据，学啥呢？我也不知道，反正未来就是很迷茫就对了。就业啥的以前看觉得很遥远，现在倒是担心起来了以后能不能找到工作养活自己啥的。不过到了学校估计又会开始混吧...
 
 ### 你可以……
-[康康我的GitHub](https://github.com/Small-tailqwq)——虽然啥也没有，日常就给这个库小改小改  
-[发邮件骚扰](mailto:Small_tailqwq@qq.com) ——这个是QQ邮箱，倒是偶尔会瞧瞧，不过还是建议用[Gmail](mailto:smalltailqwq@gmail.com)
-[关注我的微勃](http://weibo.com/u/5610377163)——我就是纯爱战士！牛头人退散！
-[订阅我的推忑](https://twitter.com/123_Smalltail)——推特用来看看二次元，不怼港毒啥的了，气死人了
-[Steam好友喜加一](https://steamcommunity.com/id/404smalltail/)——如果你喜欢玩Galgame，我们就是好兄弟！（希望公开资料，steam机器人还挺多的  
+- [康康我的GitHub](https://github.com/Small-tailqwq)——虽然啥也没有，日常就给这个库小改小改  
+- [发邮件骚扰](mailto:Small_tailqwq@qq.com) ——这个是QQ邮箱，倒是偶尔会瞧瞧，不过还是建议用[Gmail](mailto:smalltailqwq@gmail.com)  
+- [关注我的微勃](http://weibo.com/u/5610377163)——我就是纯爱战士！牛头人退散！  
+- [订阅我的推忑](https://twitter.com/123_Smalltail)——推特用来看看二次元或者是手办新闻啥的  
+- [Steam好友喜加一](https://steamcommunity.com/id/404smalltail/)——如果你喜欢玩Galgame，我们就是好兄弟！（希望公开资料，steam机器人还挺多的  
 
 
 ## 友情链接
