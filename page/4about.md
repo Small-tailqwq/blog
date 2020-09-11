@@ -20,7 +20,7 @@ type: page
 
 ## 关于我  
 
-<img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/QQ图片20200911211608.jpg" width="50%">  
+<img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/QQ图片20200911211608.jpg" width="30%">  
 
 &emsp;&emsp;[带专废物](人下人)，平时基本都是无所事事的状态…游戏看情况而定吧…搞博客完全是兴趣使然，虽然支出的确可能有超预期…  **但是开心就好～**难道不是吗？  
 目前还行，域名由于比较低级一年只要60多，dns解析用的cf的，免费。然后GitHubpages也是直接用，免费。
@@ -39,7 +39,7 @@ type: page
 
 ## 友情链接
 - （建设中…没有思路）
-- # [DreamMaker<img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width=30%>](https://fordes.top/)   
+- # ***[DreamMaker]***(https://fordes.top/)<img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width=10% style="zoom:25%;" >
   - 黄花仍在，朱颜未衰，正好忘怀
 
 ## 留言
