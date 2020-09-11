@@ -68,6 +68,14 @@ layout: default
 
         <h2 id="comments">Comments</h2>
         {% include comments.html %}
+    <div id="vcomments"></div>
+            <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'sCggwue6b5mOVluYAtA51HxG-MdYXbMMI',
+            appKey: '5MwP7fgcnDYwJ8WyNGmyEkuv'
+        })
+    </script>
 
 
     </div>
@@ -93,14 +101,7 @@ layout: default
         </div>
     </div>
 </div>
-<div id="vcomments"></div>
-            <script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'sCggwue6b5mOVluYAtA51HxG-MdYXbMMI',
-            appKey: '5MwP7fgcnDYwJ8WyNGmyEkuv'
-        })
-    </script>
+
 <script>
 /**
  * target _blank
