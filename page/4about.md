@@ -30,10 +30,10 @@ type: page
 目前学科报的是大数据，学啥呢？我也不知道，反正未来就是很迷茫就对了。就业啥的以前看觉得很遥远，现在倒是担心起来了以后能不能找到工作养活自己啥的。不过到了学校估计又会开始混吧...
 
 ### 你可以……
-- [康康我的GitHub](https://github.com/Small-tailqwq)——虽然啥也没有，日常就给这个库小改小改  
-- [发邮件骚扰](mailto:Small_tailqwq@qq.com) ——这个是QQ邮箱，倒是偶尔会瞧瞧，不过还是建议用[Gmail](mailto:smalltailqwq@gmail.com)  
-- [关注我的微勃](http://weibo.com/u/5610377163)——我就是纯爱战士！牛头人退散！  
-- [Steam好友喜加一](https://steamcommunity.com/id/404smalltail/)——如果你喜欢玩Galgame，我们就是好兄弟！（希望公开资料，steam机器人还挺多的  
+- [康康我的GitHub](https://github.com/Small-tailqwq) —— 虽然啥也没有，日常就给这个库小改小改  
+- [发邮件骚扰](mailto:Smalltailqwq@gmail.com) —— 不是经常看就是了  
+- [关注我的微勃](https://weibo.com/u/5610377163) —— 我就是纯爱战士！牛头人退散！  
+- [Steam好友喜加一](https://steamcommunity.com/id/404smalltail/) —— 如果你喜欢玩Galgame，我们就是好兄弟！（希望公开资料，steam机器人还挺多的  
 
 
 ## 友情链接
