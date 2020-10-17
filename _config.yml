@@ -54,7 +54,7 @@ category_dir: category/
 tag_dir: tag/
 
 # excerpt 摘要分割
-excerpt_separator: "===pike===" #目前为"===pike===" 如有更换，注释也应该一同更换
+excerpt_separator: "\n\n\n\n" #4回车 如有更换，注释也应该一同更换
 
 # paginate
 plugins: [jekyll-paginate]
