@@ -40,9 +40,9 @@ baidu_tongji_id: 084e68676f7b0e5522ee147b0650e144
 google_analytics_id: UA-150927766-1 # google 分析追踪id（UA开头
 
 # Build settings
-markdown: kramdown
+markdown: Redcarpet #kramdown
 
-kramdown:
+# kramdown:
   input: GFM
   syntax_highlighter: rouge
 
