@@ -37,7 +37,7 @@ type: page
 
 
 ## 友情链接
-### ***[DreamMaker](https://fordes.top/)***   <img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width="10%" heigut="10%">  
+### ***[DreamMaker](https://blog.fordes.top/)***   <img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width="10%" heigut="10%">  
 > *黄花仍在，朱颜未衰，正好忘怀*   
 
 ---
@@ -86,8 +86,6 @@ type: page
     </script>
 
 ## 更新日志（保留）  
-* [人人](#jp1)
-
 *2020.9.11*
 * `[]`修复来必力评论加载出错的BUG（直接换掉）
 * 更换评论插件时顺带把之前没找到的评论词条改了，现在基本能看见的地方基本都是中文了（毕竟我是文盲  
