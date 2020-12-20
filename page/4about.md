@@ -40,8 +40,10 @@ type: page
 ### ***[DreamMaker](https://blog.fordes.top/)***   <img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width="10%" heigut="10%">  
 > *黄花仍在，朱颜未衰，正好忘怀*   
 
+
 ### ***[故里博客](https://gulibk.cn/)***   <img src="https://txc.gtimg.com/data/298698/2020/1220/778bc8f59308f6a9e9f8b97982405bb2.jpeg" width="10%" heigut="10%">
-> *人间盛望,故里江添*  
+> *人间盛望,故里江添*   
+  
 
 ---
 ### ***虚拟待位...***  
