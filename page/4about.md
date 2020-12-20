@@ -13,7 +13,7 @@ type: page
 
 # 关于本博客
 
-由于[技术有限](!啥也不懂!)+懒，所以是直接fork的[徐代龙大佬的源码](https://github.com/xudailong/xudailong.github.io)。当然也是基于`GitHub Pages`搭建的，绑上自己的域名，dns供应商那边解析一下就完事了。   
+博客是直接fork的[徐代龙大佬的源码](https://github.com/xudailong/xudailong.github.io)。当然也是基于`GitHub Pages`搭建的，绑上自己的域名，dns供应商那边解析一下就完事了。   
 开始逐渐研究并且加以修改了，不过因为自己傻逼进度很慢而且经常出低级错误，只能说一边学一边搞吧。  
 收藏夹不打算删除。保留一些干货，另外会加上我自己收集的一些网站。  
 衷心感谢徐代龙大佬的教程与源码，另外赞美一下github这美妙的速度~~比WP的托管不知道高到哪里去了~~  
@@ -22,8 +22,8 @@ type: page
 
 <img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/20200911211608.jpg" width="20%" height="20%"/>
   
-&emsp;&emsp;[带专废物](人下人)，平时基本都是无所事事的状态…游戏看情况而定吧…搞博客完全是兴趣使然，虽然支出的确可能有超预期…  **但是开心就好～**难道不是吗？  
-目前还行，域名由于比较低级一年只要60多，dns解析用的cf的，免费。然后GitHubpages也是直接用，免费。
+&emsp;&emsp;带专废物，平时基本都是无所事事的状态…游戏看情况而定吧…搞博客完全是兴趣使然，虽然支出的确可能有超预期…  **但是开心就好～**难道不是吗？  
+目前还行，域名转入CF了，一年只要50多，比腾讯云续费便宜一点点。dns解析也用的cf的，免费。然后GitHubpages也是直接用，免费。
 
 ### 我的兴趣
 兴趣这东西真不好说，玩玩游戏，听听歌，看看漫画啥的...基本能想到的都有做过，不过现在越来越懒了，在家基本一天就呆在房间里，有人玩游戏就一起玩，不然就是看看做菜视频啊，交通事故Viedo啥的啊，反正没干啥正事就对了。  
@@ -39,7 +39,8 @@ type: page
 ## 友情链接
 ### ***[DreamMaker](https://blog.fordes.top/)***   <img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width="10%" heigut="10%">  
 > *黄花仍在，朱颜未衰，正好忘怀*   
-
+### ***[故里博客](https://gulibk.cn/)***   <img src="https://txc.gtimg.com/data/298698/2020/1220/778bc8f59308f6a9e9f8b97982405bb2.jpeg" width="10%" heigut="10%">
+> *人间盛望,故里江添*  
 ---
 ### ***虚拟待位...***  
 
