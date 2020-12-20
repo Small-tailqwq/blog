@@ -37,11 +37,11 @@ type: page
 
 
 ## 友情链接
-### ***<a rel="license" href="https://blog.fordes.top/" target="_blank">DreamMaker</a>***   <img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width="10%" heigut="10%">  
+### ***<a href="https://blog.fordes.top/" target="_blank">DreamMaker</a>***   <img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width="10%" heigut="10%">  
 > *黄花仍在，朱颜未衰，正好忘怀*   
 
 
-### ***<a rel="license" href="https://gulibk.cn/" target="_blank">故里博客</a>***   <img src="https://txc.gtimg.com/data/298698/2020/1220/778bc8f59308f6a9e9f8b97982405bb2.jpeg" width="10%" heigut="10%">
+### ***<a href="https://gulibk.cn/" target="_blank">故里博客</a>***   <img src="https://txc.gtimg.com/data/298698/2020/1220/778bc8f59308f6a9e9f8b97982405bb2.jpeg" width="10%" heigut="10%">
 > *人间盛望,故里江添*   
   
 
