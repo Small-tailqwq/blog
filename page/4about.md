@@ -33,7 +33,8 @@ type: page
 - [康康我的GitHub](https://github.com/Small-tailqwq) —— 虽然啥也没有，日常就给这个库小改小改  
 - [发邮件骚扰](mailto:Smalltailqwq@gmail.com) —— 不是经常看就是了  
 - [关注我的微勃](https://weibo.com/u/5610377163) —— 我就是纯爱战士！牛头人退散！  
-- [Steam好友喜加一](https://steamcommunity.com/id/404smalltail/) —— 如果你喜欢玩Galgame，我们就是好兄弟！（希望公开资料，steam机器人还挺多的  
+- <a href="https://steamcommunity.com/id/404smalltail/"><img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-12/steam.gif" width="10%" heigut="10%"></a> —— 如果你喜欢玩Galgame，我们就是好兄弟！（希望公开资料，steam机器人还挺多的  
+
 
 
 ## 友情链接
