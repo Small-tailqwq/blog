@@ -29,10 +29,10 @@ type: page
 兴趣这东西真不好说，玩玩游戏，听听歌，看看漫画啥的...基本能想到的都有做过，不过现在越来越懒了，在家基本一天就呆在房间里，有人玩游戏就一起玩，不然就是看看做菜视频啊，交通事故Viedo啥的啊，反正没干啥正事就对了。  
 目前学科报的是大数据，学啥呢？我也不知道，反正未来就是很迷茫就对了。就业啥的以前看觉得很遥远，现在倒是担心起来了以后能不能找到工作养活自己啥的。不过到了学校估计又会开始混吧...
 
-### 你可以……
-- [康康我的GitHub](https://github.com/Small-tailqwq) —— 虽然啥也没有，日常就给这个库小改小改  
-- [发邮件骚扰](mailto:Smalltailqwq@gmail.com) —— 不是经常看就是了  
-- [关注我的微勃](https://weibo.com/u/5610377163) —— 我就是纯爱战士！牛头人退散！  
+### 一些别的账户……
+- [GayHub](https://github.com/Small-tailqwq) —— 虽然啥也没有，日常就给这个库小改小改  
+- [GEmail](mailto:Smalltailqwq@gmail.com) —— 不是经常看就是了  
+- [Weibo](https://weibo.com/u/5610377163) —— 我就是纯爱战士！牛头人退散！  
 - <a href="https://steamcommunity.com/id/404smalltail/"><img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-12/steam.gif"></a>   
   - —— 如果你喜欢玩Galgame，我们就是好兄弟！（希望公开资料，steam机器人还挺多的  
 
@@ -41,11 +41,6 @@ type: page
 ## 友情链接
 ### ***<a href="https://blog.fordes.top/" target="_blank">DreamMaker</a>***   <img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width="10%" heigut="10%">  
 > *黄花仍在，朱颜未衰，正好忘怀*   
-
-
-### ***<a href="https://gulibk.cn/" target="_blank">故里博客</a>***   <img src="https://txc.gtimg.com/data/298698/2020/1220/778bc8f59308f6a9e9f8b97982405bb2.jpeg" width="10%" heigut="10%">
-> *人间盛望,故里江添*   
-  
 
 ---
 ### ***虚拟待位...***  
