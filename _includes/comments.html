@@ -4,16 +4,16 @@
     comment_el = '#comment';
     comment_count_el = 'span.comment-count';
     new Valine({
-        el: comment_el,				// 评论区元素（要求div）
-        count_el: comment_count_el,    // 评论计数元素（要求span）
-        lang: 'zh-cn',							   // 语言（zh-cn或en）
+        el: comment_el,
+        count_el: comment_count_el,
+        lang: 'zh-cn',
         aappId: "{{site.appId}}",
         appKey: "{{site.appKey}}",
-        placeholder: "{{site.placeholder}}", // 提示符
-        admin_email_hash: '7189e9134ce2aaf8eba137a2db6b94c1', // 可选，管理员邮箱md5，用于显示管理员标志👮‍
-        max_nest: 3,					// 嵌套评论深度，太大会影响加载速度
-        page_size: 5,					// 分页大小
-        emoticon_url: '//i0.hdslb.com/bfs/emote/', // 表情包根目录（自行解决文件托管）
+        placeholder: "{{site.placeholder}}",
+        admin_email_hash: '7189e9134ce2aaf8eba137a2db6b94c1',
+        max_nest: 3,
+        page_size: 5,
+        emoticon_url: '//i0.hdslb.com/bfs/emote/',
         emoticon_list: [
             "6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png",
             "a8111ad55953ef5e3be3327ef94eb4a39d535d06.png",
@@ -36,7 +36,7 @@
             "70dc5c7b56f93eb61bddba11e28fb1d18fddcd4c.png",
             "90cf159733e558137ed20aa04d09964436f618a1.png",
             "0d15c7e2ee58e935adc6a7193ee042388adc22af.png"
-        ] // 表情包文件列表
+        ]
     });
 </script>
 
