@@ -8,7 +8,7 @@ author: Ko_teiru
 * content
 {:toc}
 
-
+做了一点微小的工作
 
 
 
@@ -31,13 +31,13 @@ author: Ko_teiru
 
 另外博客详情界面的运作流程大致算是看懂了，感觉还挺方便的。
 
-博文的格式代码在 `post.html` 里面，里面关于评论有一条 `{% include comments.html %}` ，意思差不多就是**把`_includes` 下的 `comments.html` 加载进来**。
+博文的格式代码在 `post.html` 里面，里面关于评论有一条 `\{\% include comments.html \%\}` ，意思差不多就是**把 `_includes` 下的 `comments.html` 加载进来**。
 
-而原本的 `comments.html` 里面有几个 `{% if site.xxx %}` ，这玩意大致就是**如果 `_config.yml` 内的 xxx 为真的话，则加载直到 `{% endif %}` 之前的代码**。
+而原本的 `comments.html` 里面有几个 `\{\% if site.xxx \%\}` ，这玩意大致就是**如果 `_config.yml` 内的 xxx 为真的话，则加载直到 `\{\% endif \%\}` 之前的代码**。
 
 搞懂了这些就好搞了，在 `_config.yml` 里添加一个名为 `Valine` 的值，设置为 `true` ，另外在下面加上 `appId`、`appKey`、`placeholder`，这些都是 Valine 需要用到的值（~~placeholder不是）~~。
 
-然后在 `comments.html` 里写一个判断，中间插入 Valine 的一些代码啥的，`appId` 啥的直接用 `{{site.appId}}` 来获取就行，非常方便。
+然后在 `comments.html` 里写一个判断，中间插入 Valine 的一些代码啥的，`appId` 啥的直接用 `\{\{site.appId\}\}` 来获取就行，非常方便。
 
 现在博客结构看起来应该比我之前直接到处乱写标签要来得规范一点了，也算是填了一点坑吧，另外 `head.html` 里面也有 `mathjax` 和 `mermaid` 的判断语句，如果文章开启了对应的功能的话才会加载对应的代码块。另外要想成功渲染 `mermaid` 的话需要使用 `class="mermaid"` 的 `<div>` 标签，不然的话还是不能渲染。暂时还没有找到比较好的解决方法。
 
