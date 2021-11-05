@@ -51,59 +51,33 @@ type: page
 ## 留言
 &ensp;可在此添加友链（要求不多，博客名字和链接就行，可以的话加个图标也不是不可以
 
-<div id="vcomments"></div>
-<script>
-        new Valine({
-            el: '#vcomments',
-            appId: 'sCggwue6b5mOVluYAtA51HxG-MdYXbMMI',
-            appKey: '5MwP7fgcnDYwJ8WyNGmyEkuv',
-            placeholder: '说话大声点，听不见！',
-            emojiCDN: '//i0.hdslb.com/bfs/emote/',
-            emojiMaps: {
-        "tv_doge": "6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png",
-        "tv_亲亲": "a8111ad55953ef5e3be3327ef94eb4a39d535d06.png",
-        "tv_偷笑": "bb690d4107620f1c15cff29509db529a73aee261.png",
-        "tv_再见": "180129b8ea851044ce71caf55cc8ce44bd4a4fc8.png",
-        "tv_冷漠": "b9cbc755c2b3ee43be07ca13de84e5b699a3f101.png",
-        "tv_发怒": "34ba3cd204d5b05fec70ce08fa9fa0dd612409ff.png",
-        "tv_发财": "34db290afd2963723c6eb3c4560667db7253a21a.png",
-        "tv_可爱": "9e55fd9b500ac4b96613539f1ce2f9499e314ed9.png",
-        "tv_吐血": "09dd16a7aa59b77baa1155d47484409624470c77.png",
-        "tv_呆": "fe1179ebaa191569b0d31cecafe7a2cd1c951c9d.png",
-        "tv_呕吐": "9f996894a39e282ccf5e66856af49483f81870f3.png",
-        "tv_困": "241ee304e44c0af029adceb294399391e4737ef2.png",
-        "tv_坏笑": "1f0b87f731a671079842116e0991c91c2c88645a.png",
-        "tv_大佬": "093c1e2c490161aca397afc45573c877cdead616.png",
-        "tv_大哭": "23269aeb35f99daee28dda129676f6e9ea87934f.png",
-        "tv_委屈": "d04dba7b5465779e9755d2ab6f0a897b9b33bb77.png",
-        "tv_害羞": "a37683fb5642fa3ddfc7f4e5525fd13e42a2bdb1.png",
-        "tv_尴尬": "7cfa62dafc59798a3d3fb262d421eeeff166cfa4.png",
-        "tv_微笑": "70dc5c7b56f93eb61bddba11e28fb1d18fddcd4c.png",
-        "tv_思考": "90cf159733e558137ed20aa04d09964436f618a1.png",
-        "tv_惊吓": "0d15c7e2ee58e935adc6a7193ee042388adc22af.png",
-        },
-                   
-                   enableQQ: true
-        })
-    </script>
+{% include comments.html %}
 
-## 更新日志（保留）  
-*2020.9.11*
-* `[]`修复来必力评论加载出错的BUG（直接换掉）
+## 更新日志（保留）
+
+*2021.11.05*
+* `[-]` 移除无用代码，如无效的多说评论，代码编写格式大概已经搞懂
+* `[+]` 添加流程图支持，暂不支持与 markdown 较完美的融合，需要使用 `class="mermaid"` 标签
+* `[~]` 文章默认不加载数学公式以及 mermaid 流程图，以提高加载速度。需要手动开启
+
+
+
+*2020.09.11*
+* `[^]`修复来必力评论加载出错的BUG（直接换掉）
 * 更换评论插件时顺带把之前没找到的评论词条改了，现在基本能看见的地方基本都是中文了（毕竟我是文盲  
 * 展示界面清空，研究研究怎么改造  
 
-*2020.1.30*
-* `[]`解决部分机型上看不到超链接的问题。（其实是加载不出emoji，而我正好把超链接文本填成了emoji）
+*2020.01.30*
+* `[^]`解决部分机型上看不到超链接的问题。（其实是加载不出emoji，而我正好把超链接文本填成了emoji）
 * 对部分博文进行排版更改，尽量发挥markdown的功效。
 
-*2020.1.29*  
-* `[∆]`更换域名为`hayasa.xyz`，hayasa为「速さ」的罗马音，反正瞎搞的，别问有什么特别含义。原域名过期没能力续费了，以后可能不会再频繁更换域名了…因为有个最根本最直接的方法…不过还是保留吧，到时候再看。
+*2020.01.29*  
+* `[^]`更换域名为`hayasa.xyz`，hayasa为「速さ」的罗马音，反正瞎搞的，别问有什么特别含义。原域名过期没能力续费了，以后可能不会再频繁更换域名了…因为有个最根本最直接的方法…不过还是保留吧，到时候再看。
 
 *2019.12.16*
 * `[×]`域名明年就过期了，在考虑换一个还是继续续。博客最近更新可能不会有多频繁，网站基本就这样定型了，没精力再去捣鼓了…
 
-*2019.11.3*
+*2019.11.03*
 * `[~]`把两篇新博文不折叠的问题找到了…果然还是我自己的问题，我是憨批  
 * `[flag]`图床在调试GitHub的…出了点问题好像…待处理吧  
 
