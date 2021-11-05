@@ -53,12 +53,14 @@ type: page
 
 {% include comments.html %}
 
-## 更新日志（保留）
+## 更新日志
 
 *2021.11.05*
 * `[-]` 移除无用代码，如无效的多说评论，代码编写格式大概已经搞懂
-* `[+]` 添加流程图支持，暂不支持与 markdown 较完美的融合，需要使用 `class="mermaid"` 标签
-* `[~]` 文章默认不加载数学公式以及 mermaid 流程图，以提高加载速度。需要手动开启
+* `[+]` 添加 mermaid 流程图支持，暂不支持与 markdown 较完美的融合，需要使用 `class="mermaid"` 标签
+* `[~]` 文章默认不加载 LaTeX 数学公式以及 mermaid 流程图，以提高加载速度。需要手动开启
+* `[^]` 评论使用的是[魔改版](https://github.com/imaegoo/Valine)的 Valine，修复了 ip 以及 email 明文传递的问题
+* `[+]` 评论后台使用的是 [Valien-Admin](https://github.com/DesertsP/Valine-Admin)，添加 `bot@hayasa.xyz` 为评论提醒邮箱
 
 
 
