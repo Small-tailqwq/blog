@@ -1,21 +1,23 @@
 {% if site.Valine %}
-    {% if page.mermaid %}
-    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-    <script>
-            mermaid.initialize({ startOnLoad: true });
-    </script>
-    {% endif %}
+
 <script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
 <div id="waline"></div>
-  <script>
+<script>
+    mermaid.initialize({ startOnLoad: true });
     Waline({
-      el: '#waline',
-      serverURL: '{{site.serverURL}}',
-      emoji: [
-          'https://cdn.jsdelivr.net/gh/Small-tailqwq/Girls-Frontline-emoji-for-waline@1.0/emoji/',
-          'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo',
-          'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
-      ],
+        el: '#waline',
+        serverURL: '{{site.serverURL}}',
+        emoji: [
+            'https://cdn.jsdelivr.net/gh/Small-tailqwq/Girls-Frontline-emoji-for-waline@1.0/emoji/',
+            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo',
+            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
+        ],
     });
-  </script>
+</script>
+<style>
+.vcontent img{
+width:100px;
+height:100px
+}
+</style>
 {% endif %}
