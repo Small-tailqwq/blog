@@ -29,8 +29,7 @@ description_footer: 我已献出我最后的温柔 #底栏一言
 duoshuo_shortname: #hygblog
 disqus_shortname: #bemiku.disqus.com/count.js
 Valine: true
-appId: sCggwue6b5mOVluYAtA51HxG-MdYXbMMI
-appKey: 5MwP7fgcnDYwJ8WyNGmyEkuv
+serverURL: https://comments.blog.hayasa.xyz/
 placeholder: 说话大声点，听不见！
 
 # statistic analysis 统计代码
