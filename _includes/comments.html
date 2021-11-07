@@ -1,5 +1,5 @@
 {% if site.Valine %}
-<!--https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js-->
+<!--
 <script src="https://cdn.jsdelivr.net/npm/@imaegoo/valine@1.4.1-4.1/valine.min.js"></script>
 <div id="vcomments"></div>
 <script>
@@ -34,6 +34,15 @@
         }
     });
 </script>
+-->
+<script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
+<div id="waline"></div>
+  <script>
+    Waline({
+      el: '#waline',
+      serverURL: 'https://comments.blog.hayasa.xyz/',
+    });
+  </script>
 
 
 
