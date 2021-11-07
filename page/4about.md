@@ -43,10 +43,13 @@ type: page
 > *黄花仍在，朱颜未衰，正好忘怀*   
 
 ---
+### ***<a href="https://hotarugali.github.io/" target="_blank">DreamMaker</a>***   <img src="https://hotarugali.github.io/img/hotarugali.jpg" width="10%" heigut="10%">  
+> *你的双眼能够看到多远呢*  
+
+---
 ### ***虚拟待位...***  
 
 ---
-
 
 ## 留言
 &ensp;可在此添加友链（要求不多，博客名字和链接就行，可以的话加个图标也不是不可以
