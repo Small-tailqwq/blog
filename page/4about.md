@@ -39,11 +39,11 @@ type: page
 
 
 ## 友情链接
-### ***<a href="https://blog.fordes.top/" target="_blank">DreamMaker</a>***   <img src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width="10%" heigut="10%">  
+### ***<a href="https://blog.fordes.top/" target="_blank">DreamMaker<img class="fls" src="https://cdn.jsdelivr.net/gh/Small-tailqwq/img/2020-09/image.png" width="10%" heigut="10%"></a>***     
 > *黄花仍在，朱颜未衰，正好忘怀*   
 
 ---
-### ***<a href="https://hotarugali.github.io/" target="_blank">DreamMaker</a>***   <img src="https://hotarugali.github.io/img/hotarugali.jpg" width="10%" heigut="10%">  
+### ***<a href="https://hotarugali.github.io/" target="_blank">お前はどこまで見えている<img class="fls" src="https://hotarugali.github.io/img/hotarugali.jpg" width="10%" heigut="10%"> </a>***    
 > *你的双眼能够看到多远呢*  
 
 ---
