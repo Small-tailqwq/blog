@@ -1,10 +1,3 @@
-> 本文参考自 [VMware配置虚拟机静态IP地址的方法](https://www.jb51.net/article/118745.htm) 
->
-> 主要用于解决 VMware 虚拟机频繁变动 IP 的问题
->
-> 就算是更改 VMware 内的 DHCP 租期，也是指标不治本的一种方法，一劳永逸不好吗？
-
-
 ---
 layout: post
 title:  "VMware 配置固定ip"
@@ -15,6 +8,14 @@ author: Ko_teiru
 
 * content
 {:toc}
+
+
+> 本文参考自 [VMware配置虚拟机静态IP地址的方法](https://www.jb51.net/article/118745.htm) 
+>
+> 主要用于解决 VMware 虚拟机频繁变动 IP 的问题
+>
+> 就算是更改 VMware 内的 DHCP 租期，也是指标不治本的一种方法，一劳永逸不好吗？
+
 
 
 
