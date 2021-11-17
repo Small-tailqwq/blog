@@ -23,14 +23,18 @@ zhihu_username:
 linkedIn_username: 
 dribbble_username: 
 
-description_footer: 我已献出我最后的温柔 #底栏一言
-# comments
-# 三种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #hygblog
-disqus_shortname: #bemiku.disqus.com/count.js
+#底栏一言
+description_footer: 我已献出我最后的温柔 
+
+# 评论相关
 Valine: true
 serverURL: https://comments.blog.hayasa.xyz/
 placeholder: 说话大声点，听不见！
+anonymous: 申必壬
+# waline 相关的图片上传配置
+img_url: https://sm.ms/api/v2/upload
+img_token: 
+Authorization: ghH2IDJYO1Ly30asFY9HiNP9NEu0yOIp
 
 # statistic analysis 统计代码
 google_analytics_id: UA-150927766-1 # google 分析追踪id（UA开头
