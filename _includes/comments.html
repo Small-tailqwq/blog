@@ -17,7 +17,7 @@
           return fetch('{{site.img_url}}', {
             method: 'POST',
             body: formData,
-            headrs:{ "Authorization" : token}
+            headers: { "Authorization" : token}
           }).then(resp => resp.json()).then(resp => resp.data.url);
         },
         emoji: [
