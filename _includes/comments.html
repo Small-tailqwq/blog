@@ -4,14 +4,14 @@
 <div id="waline"></div>
 <script>
     if ("{{site.img_id}}" == "1"){
-        const img_name = "image",
-        img_url = "https://7bu.top/api/upload";
+        const img_name = "image";
+        const img_url = "https://7bu.top/api/upload";
      }else if ("{{site.img_id}}" == "2"){
-        const img_name = "smfile",
-        img_url = "https://sm.ms/api/v2/upload";
+        const img_name = "smfile";
+        const img_url = "https://sm.ms/api/v2/upload";
      }else{
-        const img_name = "image",
-        img_url = "https://7bu.top/api/upload";
+        const img_name = "image";
+        const img_url = "https://7bu.top/api/upload";
      };
     Waline({
         el: '#waline',
