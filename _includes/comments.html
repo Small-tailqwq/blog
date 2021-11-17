@@ -13,11 +13,11 @@
         uploadImage: function(file) {
           const formData = new FormData();
           formData.append('image', file);
-          const token = '{{site.img_token}}';
+          const token = "{{site.img_token}}";
           return fetch('{{site.img_url}}', {
             method: 'POST',
             body: formData,
-            headers: { "Authorization" : token}
+            headers: { "Authorization": token}
           }).then(resp => resp.json()).then(resp => resp.data.url);
         },
         emoji: [
