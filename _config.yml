@@ -32,8 +32,8 @@ serverURL: https://comments.blog.hayasa.xyz/
 placeholder: 说话大声点，听不见！
 anonymous: 申必壬
 # waline 相关的图片上传配置
-img_url: https://7bu.top/api/upload
-img_token: e1b892a9425214bc1a7dfd76a3d37586
+img_id: 2
+img_token: ghH2IDJYO1Ly30asFY9HiNP9NEu0yOIp
 
 # statistic analysis 统计代码
 google_analytics_id: UA-150927766-1 # google 分析追踪id（UA开头
