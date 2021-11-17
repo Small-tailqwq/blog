@@ -13,8 +13,8 @@
         uploadImage: function(file) {
           const formData = new FormData();
           formData.append('image', file);
-          const token = '{{site.img_token}}',
-          const Authorization = '{{site.Authorization}}',
+          const token = '{{site.img_token}}';
+          const Authorization = '{{site.Authorization}}';
           return fetch('{{site.img_url}}', {
             method: 'POST',
             body: formData,
