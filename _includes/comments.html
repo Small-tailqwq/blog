@@ -3,16 +3,6 @@
 <script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
 <div id="waline"></div>
 <script>
-    if ("{{site.img_id}}" == "1"){
-        const img_name = "image";
-        const img_url = "https://7bu.top/api/upload";
-     }else if ("{{site.img_id}}" == "2"){
-        const img_name = "smfile";
-        const img_url = "https://sm.ms/api/v2/upload";
-     }else{
-        const img_name = "image";
-        const img_url = "https://7bu.top/api/upload";
-     };
     Waline({
         el: '#waline',
         serverURL: '{{site.serverURL}}',
@@ -21,6 +11,16 @@
             placeholder: '{{site.placeholder}}'
         },
         uploadImage: function(file) {
+             if ("{{site.img_id}}" == "1"){
+                const img_name = "image";
+                const img_url = "https://7bu.top/api/upload";
+             }else if ("{{site.img_id}}" == "2"){
+                const img_name = "smfile";
+                const img_url = "https://sm.ms/api/v2/upload";
+             }else{
+                const img_name = "image";
+                const img_url = "https://7bu.top/api/upload";
+             };
             const formData = new FormData();
             formData.append( img_name, file);
             const token = "{{site.img_token}}";
