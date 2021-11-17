@@ -3,6 +3,16 @@
 <script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
 <div id="waline"></div>
 <script>
+    if ("{{site.img_id}}" == "1"){
+        const img_name = "image",
+        img_url = "https://7bu.top/api/upload;
+     }else if ("{{site.img_id}}" == "2"){
+        const img_name = "smfile",
+        img_url = "https://sm.ms/api/v2/upload";
+     }else{
+        const img_name = "image",
+        img_url = "https://7bu.top/api/upload";
+     };
     Waline({
         el: '#waline',
         serverURL: '{{site.serverURL}}',
@@ -11,24 +21,14 @@
             placeholder: '{{site.placeholder}}'
         },
         uploadImage: function(file) {
-          const formData = new FormData();
-          if ({{site.img_id}} == 1){
-              const img_name = "image",
-              img_url = "https://7bu.top/api/upload;
-          }else if ({{site.img_id}} == 2){
-              const img_name = "smfile",
-              img_url = "https://sm.ms/api/v2/upload";
-          }else{
-              const img_name = "image",
-              img_url = "https://7bu.top/api/upload";
-          };
-          formData.append( img_name, file);
-          const token = "{{site.img_token}}";
-          return fetch( img_url, {
-            method: 'POST',
-            body: formData,
-            headers: { "Authorization": token}
-          }).then(resp => resp.json()).then(resp => resp.data.url);
+            const formData = new FormData();
+            formData.append( img_name, file);
+            const token = "{{site.img_token}}";
+            return fetch( img_url, {
+                method: 'POST',
+                body: formData,
+                headers: { "Authorization": token}
+            }).then(resp => resp.json()).then(resp => resp.data.url);
         },
         emoji: [
             'https://cdn.jsdelivr.net/gh/Small-tailqwq/WaLine-emoji@v1.1.1/%E8%9B%86%E9%9F%B3%E5%A8%98/',//蛆音娘
