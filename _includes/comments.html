@@ -11,11 +11,11 @@
             placeholder: '{{site.placeholder}}'
         },
         uploadImage: function (file) {
-            const img_url: "{{site.img_url}}";
-            const img_name: "{{site.img_name}}";
-            const token = "{{site.img_token}}";
+            var img_url: "{{site.img_url}}";
+            var img_name: "{{site.img_name}}";
             const formData = new FormData();
             formData.append(img_name, file);
+            const token = "{{site.img_token}}";
             return fetch(img_url, {
                 method: 'POST',
                 body: formData,
