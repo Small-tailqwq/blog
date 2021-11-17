@@ -6,28 +6,28 @@
     Waline({
         el: '#waline',
         serverURL: '{{site.serverURL}}',
-        locale:{
+        locale: {
             anonymous: '{{site.anonymous}}',
             placeholder: '{{site.placeholder}}'
         },
-        uploadImage: function(file) {
-             if ("{{site.img_id}}" == "1"){
-                const img_name = "image";
-                const img_url = "https://7bu.top/api/upload";
-             }else if ("{{site.img_id}}" == "2"){
-                const img_name = "smfile";
-                const img_url = "https://sm.ms/api/v2/upload";
-             }else{
-                const img_name = "image";
-                const img_url = "https://7bu.top/api/upload";
-             };
+        uploadImage: function (file) {
+            if ({{ site.img_id }} == 1){
+                var img_name = "image";
+                var img_url = "https://7bu.top/api/upload";
+            } else if ({{site.img_id}} == 2) {
+                var img_name = "smfile";
+                var img_url = "https://sm.ms/api/v2/upload";
+            } else {
+                var img_name = "image";
+                var img_url = "https://7bu.top/api/upload";
+            };
             const formData = new FormData();
-            formData.append( img_name, file);
+            formData.append(img_name, file);
             const token = "{{site.img_token}}";
-            return fetch( img_url, {
+            return fetch(img_url, {
                 method: 'POST',
                 body: formData,
-                headers: { "Authorization": token}
+                headers: { "Authorization": token }
             }).then(resp => resp.json()).then(resp => resp.data.url);
         },
         emoji: [
@@ -43,13 +43,14 @@
     });
 </script>
 <style>
-.v[data-class=v] .vcontent .vemoji {
-    width: 3.5em !important;
-}
-.v[data-class=v] .vemoji-popup .vemoji {
-    max-width: 2em !important;
-    max-height: 3.5em !important;
-}
+    .v[data-class=v] .vcontent .vemoji {
+        width: 3.5em !important;
+    }
+
+    .v[data-class=v] .vemoji-popup .vemoji {
+        max-width: 2em !important;
+        max-height: 3.5em !important;
+    }
 </style>
 
 {% endif %}
