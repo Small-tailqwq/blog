@@ -13,7 +13,7 @@
         uploadImage: function(file) {
           const formData = new FormData();
           formData.append('image', file);
-          return fetch('https://sm.ms/api/v2/upload', {
+          return fetch('https://7bu.top/upload/upload.html', {
             method: 'POST',
             body: formData
           }).then(resp => resp.json()).then(resp => resp.data.url);
