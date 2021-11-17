@@ -14,11 +14,10 @@
           const formData = new FormData();
           formData.append('image', file);
           const token = '{{site.img_token}}';
-          const Authorization = '{{site.Authorization}}';
           return fetch('{{site.img_url}}', {
             method: 'POST',
             body: formData,
-            headrs:{ Authorization : token}
+            headrs:{ "Authorization" : token}
           }).then(resp => resp.json()).then(resp => resp.data.url);
         },
         emoji: [
