@@ -13,14 +13,14 @@
         uploadImage: function(file) {
           const formData = new FormData();
           if ({{site.img_id}} == 1){
-              img_name: "image",
-              img_url: "https://7bu.top/api/upload"
+              const img_name = "image",
+              img_url = "https://7bu.top/api/upload;
           }else if ({{site.img_id}} == 2){
-              img_name: "smfile",
-              img_url: "https://sm.ms/api/v2/upload"
+              const img_name = "smfile",
+              img_url = "https://sm.ms/api/v2/upload";
           }else{
-              img_name: "image",
-              img_url: "https://7bu.top/api/upload"
+              const img_name = "image",
+              img_url = "https://7bu.top/api/upload";
           };
           formData.append( img_name, file);
           const token = "{{site.img_token}}";
