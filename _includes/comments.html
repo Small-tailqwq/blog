@@ -10,6 +10,14 @@
             anonymous: '申必壬',
             placeholder: '说话这么小声还想留评论？'
         },
+        uploadImage: function(file) {
+          const formData = new FormData();
+          formData.append('image', file);
+          return fetch('https://sm.ms/upload', {
+            method: 'POST',
+            body: formData
+          }).then(resp => resp.json()).then(resp => resp.data.url);
+        },
         emoji: [
             'https://cdn.jsdelivr.net/gh/Small-tailqwq/WaLine-emoji@v1.1.1/%E8%9B%86%E9%9F%B3%E5%A8%98/',//蛆音娘
             'https://cdn.jsdelivr.net/gh/Small-tailqwq/WaLine-emoji@1.1.1/%E4%BD%90%E8%B4%BAAC%E5%A8%98/',//佐贺ac娘
