@@ -11,19 +11,11 @@
             placeholder: '{{site.placeholder}}'
         },
         uploadImage: function (file) {
-            if ({{ site.img_id }} == 1){
-                var img_name = "image";
-                var img_url = "https://7bu.top/api/upload";
-            } else if ({{site.img_id}} == 2) {
-                var img_name = "smfile";
-                var img_url = "https://sm.ms/api/v2/upload";
-            } else {
-                var img_name = "image";
-                var img_url = "https://7bu.top/api/upload";
-            };
+            const img_url: {{site.img_url}};
+            const img_name: {{site.img_name}};
+            const token = "{{site.img_token}}";
             const formData = new FormData();
             formData.append(img_name, file);
-            const token = "{{site.img_token}}";
             return fetch(img_url, {
                 method: 'POST',
                 body: formData,
