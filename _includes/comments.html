@@ -11,8 +11,8 @@
             placeholder: '{{site.placeholder}}'
         },
         uploadImage: function (file) {
-            var img_url: "{{site.img_url}}";
-            var img_name: "{{site.img_name}}";
+            var img_url = "{{site.img_url}}";
+            var img_name = "{{site.img_name}}";
             const formData = new FormData();
             formData.append(img_name, file);
             const token = "{{site.img_token}}";
