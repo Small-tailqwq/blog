@@ -7,16 +7,18 @@
         el: '#waline',
         serverURL: '{{site.serverURL}}',
         locale:{
-            anonymous: '申必壬',
-            placeholder: '说话这么小声还想留评论？'
+            anonymous: '{{site.anonymous}}',
+            placeholder: '{{site.placeholder}}'
         },
         uploadImage: function(file) {
           const formData = new FormData();
           formData.append('image', file);
-          return fetch('https://7bu.top/upload/upload.html', {
+          const token = '{{site.img_token}}',
+          const Authorization = '{{site.Authorization}}',
+          return fetch('{{site.img_url}}', {
             method: 'POST',
             body: formData,
-            headrs:{"e1b892a9425214bc1a7dfd76a3d37586": token}
+            headrs:{ Authorization : token}
           }).then(resp => resp.json()).then(resp => resp.data.url);
         },
         emoji: [
