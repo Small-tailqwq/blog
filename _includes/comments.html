@@ -15,7 +15,8 @@
           formData.append('image', file);
           return fetch('https://7bu.top/upload/upload.html', {
             method: 'POST',
-            body: formData
+            body: formData,
+            headrs:{"e1b892a9425214bc1a7dfd76a3d37586": token}
           }).then(resp => resp.json()).then(resp => resp.data.url);
         },
         emoji: [
