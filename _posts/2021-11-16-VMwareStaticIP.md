@@ -51,21 +51,23 @@ author: Ko_teiru
 
 > 但是！还有一件事
 
-右键你的虚拟机，设置，确保只有一个网络驱动器在线。说人话就是把**<网络驱动器2>**的  `已连接 `和 `启动时连接`  **全部取消勾选！**
 
-另外，手动选择**<网络驱动器>**的网络连接为：`自定义 > VMnet8(NAT 模式)`
+
+右键你的虚拟机，设置，确保只有一个网络驱动器在线。说人话就是把 **网络驱动器2** 的 *已连接* 和 *启动时连接* **全部取消勾选！**  
+
+另外，手动选择**网络驱动器**的网络连接为：`自定义 > VMnet8(NAT 模式)`
 
 ## Linux 端配置
 
 进入存放网络配置的文件夹
 
-```shell
+```sh
 cd /etc/sysconfig/network-scripts/
 ```
 
 查看网卡名称
 
-```shell
+```sh
 ip addr
 ```
 
@@ -73,8 +75,8 @@ ip addr
 
 其中，我们要记住`2：`处的网卡名以及它下一行的 link/ether 值（MAC，为 `ff:ff:ff:ff:ff:ff` 格式）
 
-```shell
-[root@node01 network-scripts]# ip addr
+```sh
+$ ip addr
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN 
     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
     inet 127.0.0.1/8 scope host lo
