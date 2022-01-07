@@ -107,7 +107,7 @@ logo/展示图：尽量
 *2021.11.17*
 * `[^]` 为 Waline 添加上传图片配置
 * `[-]` 移除魔改版 Valine，更换至 [Waline](https://github.com/walinejs/waline)
-* `[+]` 为 Waline“移植”了一些表情，详见[Github](https://github.com/Small-tailqwq/2stabApe-emoji-for-waline)
+* `[+]` 为 Waline“移植”了一些表情，详见 [Github](https://github.com/Small-tailqwq/2stabApe-emoji-for-waline)
 
 
 *2021.11.05*
