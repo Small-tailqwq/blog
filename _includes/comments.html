@@ -1,6 +1,10 @@
 {% if site.Valine %}
 
-<script src="//hayasa.oss-cn-hangzhou.aliyuncs.com/npm/@waline/client"></script>
+<script src="https://hayasa.oss-cn-hangzhou.aliyuncs.com/npm/@waline/client@v2/dist/waline.js"></script>
+<link
+    rel="stylesheet"
+    href="https://hayasa.oss-cn-hangzhou.aliyuncs.com/npm/@waline/client@v2/dist/waline.css"
+  />
 <div id="waline"></div>
 <script>
     Waline({
@@ -10,18 +14,18 @@
             anonymous: '{{site.anonymous}}',
             placeholder: '{{site.placeholder}}'
         },
-        uploadImage: function (file) {
-            var img_url = "{{site.img_url}}";
-            var img_name = "{{site.img_name}}";
-            const formData = new FormData();
-            formData.append(img_name, file);
-            const token = "{{site.img_token}}";
-            return fetch(img_url, {
-                method: 'POST',
-                body: formData,
-                headers: { "Authorization": token }
-            }).then(resp => resp.json()).then(resp => resp.data.url);
-        },
+        // uploadImage: function (file) {
+        //     var img_url = "{{site.img_url}}";
+        //     var img_name = "{{site.img_name}}";
+        //     const formData = new FormData();
+        //     formData.append(img_name, file);
+        //     const token = "{{site.img_token}}";
+        //     return fetch(img_url, {
+        //         method: 'POST',
+        //         body: formData,
+        //         headers: { "Authorization": token }
+        //     }).then(resp => resp.json()).then(resp => resp.data.url);
+        // },
         emoji: [
             'https://hayasa.oss-cn-hangzhou.aliyuncs.com/gh/Small-tailqwq/WaLine-emoji@1.1.1/蛆音娘/',//蛆音娘
             'https://hayasa.oss-cn-hangzhou.aliyuncs.com/gh/Small-tailqwq/WaLine-emoji@1.1.1/佐贺AC娘/',//佐贺ac娘
@@ -29,8 +33,8 @@
             'https://hayasa.oss-cn-hangzhou.aliyuncs.com/gh/Small-tailqwq/WaLine-emoji@1.1.1/魔改娘/',//魔改娘
             'https://hayasa.oss-cn-hangzhou.aliyuncs.com/gh/Small-tailqwq/WaLine-emoji@1.1.1/彩娘/',//彩娘
             'https://hayasa.oss-cn-hangzhou.aliyuncs.com/gh/Small-tailqwq/WaLine-emoji@1.1.1/少前小剧场/',//少前小剧场
-            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo',
-            'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
+            // 'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo',
+            // 'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
         ],
     });
 </script>
