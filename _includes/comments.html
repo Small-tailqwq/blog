@@ -1,13 +1,13 @@
 {% if site.Valine %}
 
-<script src="hayasaoss.oss-accelerate.aliyuncs.com/npm/@waline/client@v2/dist/waline.js"></script>
+<script src="https://hayasaoss.oss-accelerate.aliyuncs.com/npm/@waline/client@v2/dist/waline.js"></script>
 <link
     rel="stylesheet"
-    href="hayasaoss.oss-accelerate.aliyuncs.com/npm/@waline/client@v2/dist/waline.css"
+    href="https://hayasaoss.oss-accelerate.aliyuncs.com/npm/@waline/client@v2/dist/waline.css"
   />
 <div id="waline"></div>
 <script>
-    Waline({
+    Waline.init({
         el: '#waline',
         serverURL: '{{site.serverURL}}',
         locale: {
@@ -27,23 +27,23 @@
         //     }).then(resp => resp.json()).then(resp => resp.data.url);
         // },
         emoji: [
-            'hayasaoss.oss-accelerate.aliyuncs.com/gh/Small-tailqwq/WaLine-emoji@1.1.1/蛆音娘/',//蛆音娘
-            'hayasaoss.oss-accelerate.aliyuncs.com/gh/Small-tailqwq/WaLine-emoji@1.1.1/佐贺AC娘/',//佐贺ac娘
-            'hayasaoss.oss-accelerate.aliyuncs.com/gh/Small-tailqwq/WaLine-emoji@1.1.1/哥布林/',//夏冰麻麻雾雨AC娘
-            'hayasaoss.oss-accelerate.aliyuncs.com/gh/Small-tailqwq/WaLine-emoji@1.1.1/魔改娘/',//魔改娘
-            'hayasaoss.oss-accelerate.aliyuncs.com/gh/Small-tailqwq/WaLine-emoji@1.1.1/彩娘/',//彩娘
-            'hayasaoss.oss-accelerate.aliyuncs.com/gh/Small-tailqwq/WaLine-emoji@1.1.1/少前小剧场/',//少前小剧场
+            'https://hayasaoss.oss-accelerate.aliyuncs.com/gh/Small-tailqwq/WaLine-emoji@1.1.1/蛆音娘/',//蛆音娘
+            'https://hayasaoss.oss-accelerate.aliyuncs.com/gh/Small-tailqwq/WaLine-emoji@1.1.1/佐贺AC娘/',//佐贺ac娘
+            'https://hayasaoss.oss-accelerate.aliyuncs.com/gh/Small-tailqwq/WaLine-emoji@1.1.1/哥布林/',//夏冰麻麻雾雨AC娘
+            'https://hayasaoss.oss-accelerate.aliyuncs.com/gh/Small-tailqwq/WaLine-emoji@1.1.1/魔改娘/',//魔改娘
+            'https://hayasaoss.oss-accelerate.aliyuncs.com/gh/Small-tailqwq/WaLine-emoji@1.1.1/彩娘/',//彩娘
+            'https://hayasaoss.oss-accelerate.aliyuncs.com/gh/Small-tailqwq/WaLine-emoji@1.1.1/少前小剧场/',//少前小剧场
             // 'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo',
             // 'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
         ],
     });
 </script>
 <style>
-    .v[data-class=v] .vcontent .vemoji {
-        width: 3.5em !important;
+    .v[data-class=v] .wl-content .wl-emoji {
+        height: 3.5em !important;
     }
 
-    .v[data-class=v] .vemoji-popup .vemoji {
+    .v[data-class=v] .wl-emoji-popup .wl-emoji {
         max-width: 2em !important;
         max-height: 3.5em !important;
     }
