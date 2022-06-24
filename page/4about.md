@@ -31,7 +31,7 @@ type: page
 
 <img src="https://hayasaoss.oss-accelerate.aliyuncs.com/gh/Small-tailqwq/img/2020-09/20200911211608.jpg" width="20%" height="20%"/>
 
-个人认为还算是较为乐观的理想主义者，家住拂晓之间，已婚捏
+个人认为还算是较为乐观的理想主义者
 
 ### 技能方面：
 
@@ -39,7 +39,7 @@ type: page
 
 学过一点点美术，不过跑路了。现在记得的也就素描里的透视了吧。
 
-~~70KG+ 的传奇泰坦导师~~
+
 
   
 
@@ -80,6 +80,10 @@ type: page
 ---
 ### ***<a href="https://mogeko.org/" target="_blank">Mogeko<img class="fls" src="https://gitee.com/mogekoqwq/image/raw/master/mogeko_lowq.png" width="10%" heigut="10%"> </a>***    
 > *~~24岁~~，是学生*  
+
+---
+### ***<a href="http://blog.alphaae.com/" target="_blank">AlphaAE <img class="fls" src="http://blog.alphaae.com/usr/img/icon_my.jpg" width="10%" heigut="10%"> </a>***    
+> *冷静点，骚不动了(?)*  
 
 ---
 ### ***虚拟待位...***  
