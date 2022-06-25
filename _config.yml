@@ -14,8 +14,8 @@ url: "https://blog.hayasa.xyz" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links 一些联系方式
-twitter_username: #直接用户id
-facebook_username: #gaohaoyang.water
+twitter_username: #推特
+facebook_username: #脸书
 github_username:  small-tailqwq #也是直接用户id
 email: email@hayasa.xyz
 weibo_username: 5610377163 #微博的数字id
@@ -24,17 +24,14 @@ linkedIn_username:
 dribbble_username: 
 
 #底栏一言
-description_footer: 我在游泳，我不会游泳
+description_footer: 没有备案，也不想备案
 
 # 评论相关
 Valine: true
 serverURL: https://comments.blog.hayasa.xyz/
 placeholder: 说话大声点，听不见！
 anonymous: 申必壬
-# waline 相关的图片上传配置
-img_url: https://7bu.top/api/upload
-img_name: image
-img_token: e1b892a9425214bc1a7dfd76a3d37586
+
 
 # statistic analysis 统计代码
 google_analytics_id: UA-150927766-1 # google 分析追踪id（UA开头
