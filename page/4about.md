@@ -63,7 +63,7 @@ type: page
 - [GitHub](https://github.com/Small-tailqwq) —— 代码全 fork，原创力为 0 的渣渣
 - [email](mailto:email@hayasa.xyz) —— 发是一回事，能不能及时看见又是另一回事  
 - [Weibo](https://weibo.com/u/5610377163) —— 我就是纯爱战士！牛头人退散！  
-- <a href="https://steamcommunity.com/id/404smalltail/"><img src="https://hayasa.skadi.top/gh/Small-tailqwq/img/2020-12/steam.gif"></a>   
+- <a href="https://steamcommunity.com/id/7656119817537O561/"><img src="https://hayasa.skadi.top/gh/Small-tailqwq/img/2020-12/steam.gif"></a>   
   - —— 如果你喜欢玩Galgame，我们就是好兄弟！   
   
 
