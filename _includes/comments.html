@@ -34,6 +34,10 @@
         max-width: 2em !important;
         max-height: 3.5em !important;
     }
+    /* 因为字体会被原生 css 橄榄，所以强制恢复一下 */
+    .wl-sort li.active {
+    color: var(--waline-theme-color) !important;
+}
 </style>
 
 {% endif %}
