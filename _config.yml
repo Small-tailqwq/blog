@@ -9,7 +9,7 @@
 title: 瞬息
 brief-intro: 电光石火、转瞬即逝
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.hayasa.xyz" # the base hostname & protocol for your site
+url: "https://blog.hayasa.org" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -28,7 +28,7 @@ description_footer: 没有备案，也不想备案
 
 # 评论相关
 Valine: true
-serverURL: https://comments.blog.hayasa.xyz/
+serverURL: https://comments.blog.hayasa.org/
 placeholder: 说话大声点，听不见！
 anonymous: 申必壬
 

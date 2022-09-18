@@ -60,7 +60,7 @@ author: Ko_teiru
 
 现在博客结构看起来应该比我之前直接到处乱写标签要来得规范一点了，也算是填了一点坑吧，另外 `head.html` 里面也有 `mathjax` 和 `mermaid` 的判断语句，如果文章开启了对应的功能的话才会加载对应的代码块。另外要想成功渲染 `mermaid` 的话需要使用 `class="mermaid"` 的 `<div>` 标签，不然的话还是不能渲染。暂时还没有找到比较好的解决方法。
 
-就这样吧，其他东西可以直接去 [Github](https://github.com/Small-tailqwq/blog) 看或者去[关于](https://blog.hayasa.xyz/about/)界面。
+就这样吧，其他东西可以直接去 [Github](https://github.com/Small-tailqwq/blog) 看或者去[关于](https://blog.hayasa.org/about/)界面。
 
 另外学校又因为疫情原因封校了，希望早点好起来吧。
 

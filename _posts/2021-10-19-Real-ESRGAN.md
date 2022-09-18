@@ -37,7 +37,7 @@ echo =            脚本会自动创建一个文件夹存放输出文件        
 echo =      如果你是拖入的文件，则会在源文件下新建一个文件            =
 echo =               随便写的，并不是很懂bat文件                    =
 echo =    源码仓库————》 https://github.com/xinntao/Real-ESRGAN    =
-echo =               by：blog.hayasa.xyz                          =
+echo =               by：blog.hayasa.org                          =
 echo ==============================================================
 set file=%1
 rem 检测文明名是否有空格，如果文件名存在空格，则%1会自动添加""，如果没有，则不会
