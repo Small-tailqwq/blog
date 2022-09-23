@@ -29,7 +29,7 @@ type: page
 
 ## <span id="jp1">关于我</span>   
 
-<img src="https://hayasa.skadi.top/gh/Small-tailqwq/img/2020-09/20200911211608.jpg" width="20%" height="20%"/>
+<img src="https://b2.hayasa.org/gh/Small-tailqwq/img/2020-09/20200911211608.jpg" width="20%" height="20%"/>
 
 个人认为还算是较为乐观的理想主义者，虽然心之壁挺薄弱的
 
@@ -69,7 +69,7 @@ type: page
 - [GitHub](https://github.com/Small-tailqwq) —— 代码全 fork，原创力为 0 的渣渣
 - [email](mailto:email@hayasa.xyz) —— 发是一回事，能不能及时看见又是另一回事  
 - [Weibo](https://weibo.com/u/5610377163) —— 我就是纯爱战士！牛头人退散！  
-- <a href="https://steamcommunity.com/id/7656119817537056/"><img src="https://hayasa.skadi.top/gh/Small-tailqwq/img/2020-12/steam.gif"></a>   
+- <a href="https://steamcommunity.com/id/7656119817537056/"><img src="https://b2.hayasa.org/gh/Small-tailqwq/img/2020-12/steam.gif"></a>   
   - —— 如果你喜欢玩Galgame，我们就是好兄弟！   
   
 
@@ -79,7 +79,7 @@ type: page
 > ~~大家都是我的翅膀~~
 
 ---
-### ***<a href="https://blog.fordes.top/" target="_blank">DreamMaker<img class="fls" src="https://hayasa.skadi.top/gh/Small-tailqwq/img/2020-09/image.png" width="10%" heigut="10%"></a>***     
+### ***<a href="https://blog.fordes.top/" target="_blank">DreamMaker<img class="fls" src="https://b2.hayasa.org/gh/Small-tailqwq/img/2020-09/image.png" width="10%" heigut="10%"></a>***     
 > *黄花仍在，朱颜未衰，正好忘怀*   
 
 ---
@@ -87,11 +87,11 @@ type: page
 > *你的双眼能够看到多远呢*  
 
 ---
-### ***<a href="https://mogeko.cafe/" target="_blank">Mogeko<img class="fls" src="https://hayasa.skadi.top/gh/Small-tailqwq/img/2022-06/mogeko_icon.png" width="10%" heigut="10%"> </a>***    
+### ***<a href="https://mogeko.cafe/" target="_blank">Mogeko<img class="fls" src="https://b2.hayasa.org/gh/Small-tailqwq/img/2022-06/mogeko_icon.png" width="10%" heigut="10%"> </a>***    
 > *~~24岁~~，是学生*  
 
 ---
-### ***<a href="http://blog.alphaae.com/" target="_blank">AlphaAE <img class="fls" src="https://hayasa.skadi.top/gh/Small-tailqwq/img/2022-06/alphaae_icon.png" width="10%" heigut="10%"> </a>***    
+### ***<a href="http://blog.alphaae.com/" target="_blank">AlphaAE <img class="fls" src="https://b2.hayasa.org/gh/Small-tailqwq/img/2022-06/alphaae_icon.png" width="10%" heigut="10%"> </a>***    
 > *尽人事以听天命*  
 
 ---
